@@ -1,0 +1,1 @@
+Claude Fable 5, just showing us his safeguards, language to language (even imaginary) seems to be a touchy subject for the poor bugga.

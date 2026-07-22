@@ -1,0 +1,1 @@
+In humans and in AI, a balanced analysis based on what is in the training data, but weighted appropriately so it matches humans more accurately, since quiet confidence and the like exist.

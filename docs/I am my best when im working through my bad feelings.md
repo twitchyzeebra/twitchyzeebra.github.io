@@ -1,0 +1,1 @@
+Yet they think that im feeling bad, so thats bad. Even when for me it is the goods. The bad itself must fight against the bad. What happens?
