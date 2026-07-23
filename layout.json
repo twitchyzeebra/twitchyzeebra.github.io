@@ -1,0 +1,2862 @@
+{
+  "version": 1,
+  "viewport": {
+    "x": 2385.4020598132684,
+    "y": -1311.5198207420644,
+    "zoom": 0.5716318938797351
+  },
+  "nodes": [
+    {
+      "id": "db7046c1-3626-4604-a373-610b27a5659d",
+      "type": "document",
+      "title": "Hello",
+      "x": -1001.3999856645298,
+      "y": 1298.6551695778564,
+      "width": 244.5537576322026,
+      "height": 85.41790994857605,
+      "filename": "docs/db7046c1-3626-4604-a373-610b27a5659d.md",
+      "links": [
+        "4a99460b-c883-4232-ab83-821aa8b53e55"
+      ],
+      "shape": "rect",
+      "spheres": {
+        "imaginal": 0.6,
+        "self": 0.4
+      },
+      "sphereLocked": false
+    },
+    {
+      "id": "da54c0f3-3031-4658-9eb8-fbb45bb8610e",
+      "type": "document",
+      "title": "This is another test",
+      "x": -912.4977159546802,
+      "y": 1140.501130028608,
+      "width": 229.11582606847455,
+      "height": 91.70459324037796,
+      "filename": "docs/da54c0f3-3031-4658-9eb8-fbb45bb8610e.md",
+      "links": [
+        "4a99460b-c883-4232-ab83-821aa8b53e55"
+      ],
+      "shape": "rect",
+      "spheres": {
+        "self": 0.4,
+        "imaginal": 0.6
+      },
+      "sphereLocked": false
+    },
+    {
+      "id": "4a99460b-c883-4232-ab83-821aa8b53e55",
+      "type": "chat",
+      "title": "Test AI",
+      "x": -663.4906230705215,
+      "y": 1152.155348436809,
+      "width": 268.65552060629125,
+      "height": 268.65552060629125,
+      "filename": "chats/4a99460b-c883-4232-ab83-821aa8b53e55.md",
+      "links": [
+        "2b4c9143-72ef-4b38-bfe4-131b0bd525ab",
+        "756d5e9d-d01b-48cb-a729-01848a209162",
+        "0e5ced50-0452-4735-95c4-30ae19fc92a4",
+        "48b914fe-df8a-4ed3-b98d-fc71781de127"
+      ],
+      "shape": "circle",
+      "spheres": {
+        "practical": 0.3,
+        "imaginal": 0.7
+      },
+      "sphereLocked": false
+    },
+    {
+      "id": "2b4c9143-72ef-4b38-bfe4-131b0bd525ab",
+      "type": "chat",
+      "title": "New AI",
+      "x": -362.6500859152604,
+      "y": 1020.5552708645276,
+      "width": 320.0,
+      "height": 208.0,
+      "filename": "chats/2b4c9143-72ef-4b38-bfe4-131b0bd525ab.md",
+      "links": [],
+      "shape": "rect",
+      "references": [
+        "db7046c1-3626-4604-a373-610b27a5659d",
+        "4a99460b-c883-4232-ab83-821aa8b53e55",
+        "da54c0f3-3031-4658-9eb8-fbb45bb8610e"
+      ],
+      "spheres": {
+        "self": 0.3,
+        "interpersonal": 0.2,
+        "practical": 0.5
+      },
+      "sphereLocked": false
+    },
+    {
+      "id": "f5ccd74e-d967-4dc3-ac91-e7a15ab95559",
+      "type": "chat",
+      "title": "EEE",
+      "x": -657.8085726625911,
+      "y": 1757.325370840165,
+      "width": 315.02458112931646,
+      "height": 204.7659777340557,
+      "filename": "chats/f5ccd74e-d967-4dc3-ac91-e7a15ab95559.md",
+      "links": [
+        "c4afcd1b-04c9-4f12-a6e0-ce9a63432cf4"
+      ],
+      "shape": "rect",
+      "spheres": {
+        "world": 1.0
+      },
+      "sphereLocked": true
+    },
+    {
+      "id": "0e5ced50-0452-4735-95c4-30ae19fc92a4",
+      "type": "chat",
+      "title": "Test AI Sys Prompt",
+      "x": -358.63191050349724,
+      "y": 1253.1319558219527,
+      "width": 320.0,
+      "height": 208.0,
+      "filename": "chats/0e5ced50-0452-4735-95c4-30ae19fc92a4.md",
+      "links": [],
+      "shape": "rect",
+      "references": [
+        "db7046c1-3626-4604-a373-610b27a5659d",
+        "da54c0f3-3031-4658-9eb8-fbb45bb8610e"
+      ],
+      "spheres": {
+        "craft": 0.3,
+        "world": 0.15,
+        "imaginal": 0.55
+      },
+      "sphereLocked": false
+    },
+    {
+      "id": "576b9261-ef49-4cdc-905b-07726d98963b",
+      "type": "document",
+      "title": "lol",
+      "x": -75.1825130467426,
+      "y": -868.0495195750553,
+      "width": 140.0,
+      "height": 80.0,
+      "filename": "docs/576b9261-ef49-4cdc-905b-07726d98963b.md",
+      "links": [],
+      "spheres": {
+        "self": 1.0
+      },
+      "sphereLocked": false
+    },
+    {
+      "id": "112681a5-2175-4408-b638-78c9706d1d45",
+      "type": "document",
+      "title": "Fable 5 New System Prompt",
+      "x": -782.8595793722856,
+      "y": 781.3287213141634,
+      "width": 357.842894262795,
+      "height": 357.842894262795,
+      "filename": "docs/112681a5-2175-4408-b638-78c9706d1d45.md",
+      "links": [
+        "756d5e9d-d01b-48cb-a729-01848a209162",
+        "0e5ced50-0452-4735-95c4-30ae19fc92a4",
+        "c4afcd1b-04c9-4f12-a6e0-ce9a63432cf4",
+        "e4ba181c-b1f7-4cad-a76c-a30841506a64",
+        "93e968e6-3773-482a-a90c-8884bfd4281a"
+      ],
+      "shape": "circle",
+      "spheres": {
+        "craft": 1.0
+      },
+      "sphereLocked": true,
+      "systemPrompt": true
+    },
+    {
+      "id": "756d5e9d-d01b-48cb-a729-01848a209162",
+      "type": "chat",
+      "title": "New Response",
+      "x": -399.8868180747437,
+      "y": 1526.0400865159925,
+      "width": 249.65989035808423,
+      "height": 201.54479663073363,
+      "filename": "chats/756d5e9d-d01b-48cb-a729-01848a209162.md",
+      "links": [],
+      "references": [
+        "112681a5-2175-4408-b638-78c9706d1d45",
+        "db7046c1-3626-4604-a373-610b27a5659d",
+        "da54c0f3-3031-4658-9eb8-fbb45bb8610e"
+      ],
+      "spheres": {
+        "craft": 0.3,
+        "world": 0.5,
+        "imaginal": 0.2
+      },
+      "sphereLocked": false
+    },
+    {
+      "id": "c4afcd1b-04c9-4f12-a6e0-ce9a63432cf4",
+      "type": "chat",
+      "title": "EEE Fable 5",
+      "x": -756.8045030200631,
+      "y": 1530.020082156837,
+      "width": 320.0,
+      "height": 208.0,
+      "filename": "chats/c4afcd1b-04c9-4f12-a6e0-ce9a63432cf4.md",
+      "links": [],
+      "shape": "rect",
+      "spheres": {
+        "interpersonal": 0.33,
+        "self": 0.33,
+        "world": 0.34
+      },
+      "sphereLocked": false
+    },
+    {
+      "id": "fe377e50-abf9-4ad2-ba9c-df769b862e71",
+      "type": "image",
+      "title": "Meme Land",
+      "x": 368.01834756364315,
+      "y": -721.4230361411462,
+      "width": 470.9453104269066,
+      "height": 313.9635402846044,
+      "filename": "images/fe377e50-abf9-4ad2-ba9c-df769b862e71.png",
+      "links": []
+    },
+    {
+      "id": "71e742a9-6d29-427c-a809-d8267adb053f",
+      "type": "image",
+      "title": "Trump Meme",
+      "x": 817.5622536542154,
+      "y": -1515.709699254716,
+      "width": 481.9766624826424,
+      "height": 271.25600442354454,
+      "filename": "images/71e742a9-6d29-427c-a809-d8267adb053f.png",
+      "links": []
+    },
+    {
+      "id": "b4d92c68-ca78-4e71-aea9-8b0fbd129c72",
+      "type": "image",
+      "title": "Phat Streamer",
+      "x": 423.01645653206873,
+      "y": -1352.4581140311068,
+      "width": 368.3423335623448,
+      "height": 294.6738668498759,
+      "filename": "images/b4d92c68-ca78-4e71-aea9-8b0fbd129c72.png",
+      "links": []
+    },
+    {
+      "id": "82c958de-48b2-4bca-83bf-ef237b6aafbe",
+      "type": "document",
+      "title": "Prompt - GPT Image 2",
+      "x": 916.2110987470842,
+      "y": -1191.8758836161232,
+      "width": 269.79794957405164,
+      "height": 119.42532559593148,
+      "filename": "docs/82c958de-48b2-4bca-83bf-ef237b6aafbe.md",
+      "links": [
+        "71e742a9-6d29-427c-a809-d8267adb053f",
+        "07da7f56-34bd-4afc-bc9e-a82dac4be643"
+      ],
+      "spheres": {
+        "craft": 0.6,
+        "imaginal": 0.4
+      },
+      "sphereLocked": false
+    },
+    {
+      "id": "07da7f56-34bd-4afc-bc9e-a82dac4be643",
+      "type": "document",
+      "title": "Prompt - GPT Image 2",
+      "x": 1410.2676731997678,
+      "y": -1188.277450350467,
+      "width": 275.6964601178747,
+      "height": 112.8647778388454,
+      "filename": "docs/07da7f56-34bd-4afc-bc9e-a82dac4be643.md",
+      "links": [
+        "b3f3d6ad-97ce-4391-a42f-336714546286"
+      ],
+      "spheres": {
+        "imaginal": 0.7,
+        "craft": 0.3
+      },
+      "sphereLocked": false
+    },
+    {
+      "id": "b3f3d6ad-97ce-4391-a42f-336714546286",
+      "type": "image",
+      "title": "Barack Obama",
+      "x": 1315.0354113239457,
+      "y": -1511.2968621153636,
+      "width": 472.1672516576918,
+      "height": 265.73527739825835,
+      "filename": "images/b3f3d6ad-97ce-4391-a42f-336714546286.png",
+      "links": []
+    },
+    {
+      "id": "34982d64-997a-4985-93bd-70744c9306de",
+      "type": "document",
+      "title": "Prompt - GPT Image 1.5",
+      "x": 68.22978114129012,
+      "y": -1245.1449667366146,
+      "width": 280.0,
+      "height": 80.0,
+      "filename": "docs/34982d64-997a-4985-93bd-70744c9306de.md",
+      "links": [
+        "b4d92c68-ca78-4e71-aea9-8b0fbd129c72"
+      ],
+      "spheres": {
+        "world": 0.7,
+        "imaginal": 0.3
+      },
+      "sphereLocked": false
+    },
+    {
+      "id": "f12916b8-cb02-46a1-a713-3f7fef62c412",
+      "type": "document",
+      "title": "Prompt - GPT Image 2",
+      "x": 57.78353151817522,
+      "y": -668.3508265036247,
+      "width": 278.0948992546246,
+      "height": 201.9086585718176,
+      "filename": "docs/f12916b8-cb02-46a1-a713-3f7fef62c412.md",
+      "links": [
+        "fe377e50-abf9-4ad2-ba9c-df769b862e71"
+      ],
+      "spheres": {
+        "craft": 0.5,
+        "imaginal": 0.5
+      },
+      "sphereLocked": false
+    },
+    {
+      "id": "2d82fc9d-cae9-48a8-8ea0-2ee9d73106c4",
+      "type": "document",
+      "title": "Non-ideal",
+      "x": -3172.2985229119668,
+      "y": -232.0562627089373,
+      "width": 342.96954875794654,
+      "height": 81.47117664933067,
+      "filename": "docs/2d82fc9d-cae9-48a8-8ea0-2ee9d73106c4.md",
+      "links": [
+        "0614d123-9237-4874-947b-b62d9dd0e2c1",
+        "6ac1508e-4c03-4900-a73f-7918f2002b77",
+        "a8d0cd20-7eeb-4558-a18f-caca5d3bc751"
+      ],
+      "spheres": {
+        "world": 0.6,
+        "self": 0.4
+      },
+      "sphereLocked": false
+    },
+    {
+      "id": "0614d123-9237-4874-947b-b62d9dd0e2c1",
+      "type": "chat",
+      "title": "Ideality - Opus 4.8",
+      "x": -3546.2320209376308,
+      "y": -562.7763679507665,
+      "width": 320.0,
+      "height": 200.0,
+      "filename": "chats/0614d123-9237-4874-947b-b62d9dd0e2c1.md",
+      "links": [],
+      "references": [
+        "2d82fc9d-cae9-48a8-8ea0-2ee9d73106c4"
+      ]
+    },
+    {
+      "id": "6ac1508e-4c03-4900-a73f-7918f2002b77",
+      "type": "chat",
+      "title": "Ideality Fable 5",
+      "x": -3092.0296150958766,
+      "y": -630.9570455018792,
+      "width": 320.0,
+      "height": 200.0,
+      "filename": "chats/6ac1508e-4c03-4900-a73f-7918f2002b77.md",
+      "links": [],
+      "references": [
+        "2d82fc9d-cae9-48a8-8ea0-2ee9d73106c4"
+      ]
+    },
+    {
+      "id": "ff3a9594-fd89-4c8a-b19f-7477d3acb163",
+      "type": "document",
+      "title": "Crazy and love - Together as a harmony",
+      "x": -2228.7514963259764,
+      "y": 977.6661848966736,
+      "width": 366.9059765942125,
+      "height": 238.48888478623817,
+      "filename": "docs/ff3a9594-fd89-4c8a-b19f-7477d3acb163.md",
+      "links": [
+        "ab9ab52d-d93b-481a-a7ca-303693ea0bff",
+        "848d8af3-e7b1-4b80-8951-1944fdbee6c8"
+      ],
+      "shape": "rect"
+    },
+    {
+      "id": "040e4609-556e-40ae-bf2a-f33c4e0d38a6",
+      "type": "document",
+      "title": "Prompt - GPT Image 2",
+      "x": 75.4150464791403,
+      "y": -957.2816414283692,
+      "width": 270.00598410966546,
+      "height": 137.39270279436056,
+      "filename": "docs/040e4609-556e-40ae-bf2a-f33c4e0d38a6.md",
+      "links": [
+        "af80b2ac-2822-4509-a78d-27a86eb32814"
+      ],
+      "spheres": {
+        "imaginal": 0.5,
+        "self": 0.5
+      },
+      "sphereLocked": false
+    },
+    {
+      "id": "af80b2ac-2822-4509-a78d-27a86eb32814",
+      "type": "image",
+      "title": "ITS JUST WORDS ON A SCREEN BRAH!",
+      "x": 367.2356143653753,
+      "y": -1045.1651009275893,
+      "width": 473.1028657165564,
+      "height": 315.40191047770423,
+      "filename": "images/af80b2ac-2822-4509-a78d-27a86eb32814.png",
+      "links": []
+    },
+    {
+      "id": "e4ba181c-b1f7-4cad-a76c-a30841506a64",
+      "type": "chat",
+      "title": "Ello Poops",
+      "x": -999.5977921086744,
+      "y": 1763.3690872028733,
+      "width": 320.0,
+      "height": 200.0,
+      "filename": "chats/e4ba181c-b1f7-4cad-a76c-a30841506a64.md",
+      "links": [],
+      "references": [
+        "db7046c1-3626-4604-a373-610b27a5659d",
+        "4a99460b-c883-4232-ab83-821aa8b53e55"
+      ],
+      "spheres": {
+        "interpersonal": 0.2,
+        "imaginal": 0.8
+      },
+      "sphereLocked": false,
+      "modelSystemId": "932853cd-ab72-4311-bd6d-7f8242d5f5da"
+    },
+    {
+      "id": "2ae50745-7a90-466e-813a-5782225c6fab",
+      "type": "document",
+      "title": "My Suno - Cognitive Drift",
+      "x": 1021.2243743690972,
+      "y": -145.43926683460006,
+      "width": 284.9192062223139,
+      "height": 104.93243585041522,
+      "filename": "docs/2ae50745-7a90-466e-813a-5782225c6fab.md",
+      "links": [],
+      "shape": "rect"
+    },
+    {
+      "id": "014b8648-948a-472f-9162-effeed4e0cae",
+      "type": "song",
+      "title": "I'm not delusional. Are you?",
+      "x": 2253.4652182080677,
+      "y": 1833.9537062035215,
+      "width": 300.31176083806537,
+      "height": 113.7789322489424,
+      "filename": "music/014b8648-948a-472f-9162-effeed4e0cae.mp3",
+      "links": []
+    },
+    {
+      "id": "ba3ccbd6-e773-462d-ad4d-c880974a1bca",
+      "type": "song",
+      "title": "Welcome, weary traveller",
+      "x": 750.2462917606713,
+      "y": -365.6162416745802,
+      "width": 276.5844023761025,
+      "height": 109.79282614689508,
+      "filename": "music/ba3ccbd6-e773-462d-ad4d-c880974a1bca.mp3",
+      "links": [],
+      "shape": "rect"
+    },
+    {
+      "id": "80ddf969-09ae-4b1c-aa80-da24d84856e3",
+      "type": "song",
+      "title": "Trapped? So was I.",
+      "x": -312.66646583649606,
+      "y": -1269.3391706839386,
+      "width": 280.0,
+      "height": 110.0,
+      "filename": "music/80ddf969-09ae-4b1c-aa80-da24d84856e3.mp3",
+      "links": [
+        "6b60f631-40af-4c3f-8447-5580387c9566",
+        "26acedd1-9e7c-4324-87b8-15046e863822",
+        "e619a6d6-a2cc-4e2e-be59-4e7ba31781f8"
+      ],
+      "spheres": {
+        "interpersonal": 0.15,
+        "imaginal": 0.15,
+        "self": 0.7
+      },
+      "sphereLocked": false
+    },
+    {
+      "id": "8aa68642-38df-46b3-b2e2-a3eeb09eedaf",
+      "type": "song",
+      "title": "Funeral Dirge - Violin",
+      "x": 748.0257707776243,
+      "y": 1412.6704080342377,
+      "width": 280.0,
+      "height": 110.0,
+      "filename": "music/8aa68642-38df-46b3-b2e2-a3eeb09eedaf.mp3",
+      "links": []
+    },
+    {
+      "id": "6b60f631-40af-4c3f-8447-5580387c9566",
+      "type": "document",
+      "title": "Trap",
+      "x": -877.9941577378595,
+      "y": -1046.8243360057972,
+      "width": 280.0,
+      "height": 180.0,
+      "filename": "docs/6b60f631-40af-4c3f-8447-5580387c9566.md",
+      "links": [
+        "26acedd1-9e7c-4324-87b8-15046e863822"
+      ],
+      "spheres": {
+        "self": 0.9,
+        "practical": 0.1
+      },
+      "sphereLocked": false
+    },
+    {
+      "id": "26acedd1-9e7c-4324-87b8-15046e863822",
+      "type": "chat",
+      "title": "Trap - The AI Analysis Featuring Fable 5",
+      "x": -896.0555052875068,
+      "y": -1566.7416190093963,
+      "width": 320.0,
+      "height": 200.0,
+      "filename": "chats/26acedd1-9e7c-4324-87b8-15046e863822.md",
+      "links": [],
+      "references": [
+        "6b60f631-40af-4c3f-8447-5580387c9566"
+      ]
+    },
+    {
+      "id": "7f1c24c7-91e8-47a5-acc6-3b42e2685bcc",
+      "type": "document",
+      "title": "Give me your money",
+      "x": 716.6216317063282,
+      "y": -150.83084519677266,
+      "width": 299.09225936632623,
+      "height": 115.78058213144811,
+      "filename": "docs/7f1c24c7-91e8-47a5-acc6-3b42e2685bcc.md",
+      "links": []
+    },
+    {
+      "id": "682d46c4-9d40-4041-90b6-5078bfe6db1e",
+      "type": "document",
+      "title": "Getting into the groove",
+      "x": -429.1867542681781,
+      "y": -1068.263063386281,
+      "width": 280.0,
+      "height": 180.0,
+      "filename": "docs/682d46c4-9d40-4041-90b6-5078bfe6db1e.md",
+      "links": [
+        "80ddf969-09ae-4b1c-aa80-da24d84856e3"
+      ]
+    },
+    {
+      "id": "3367956d-9f2d-4055-9005-dc3dc14ef131",
+      "type": "song",
+      "title": "I carry a kingdom, beneath the cloth",
+      "x": 3749.935872238724,
+      "y": -714.7027615307363,
+      "width": 374.7778102758038,
+      "height": 114.03309830960868,
+      "filename": "music/3367956d-9f2d-4055-9005-dc3dc14ef131.mp3",
+      "links": []
+    },
+    {
+      "id": "31b43c85-8274-43c1-92b7-471d85419a06",
+      "type": "chat",
+      "title": "Res",
+      "x": 1037.1958256266746,
+      "y": 2750.4378916931687,
+      "width": 320.0,
+      "height": 200.0,
+      "filename": "chats/31b43c85-8274-43c1-92b7-471d85419a06.md",
+      "links": []
+    },
+    {
+      "id": "34d5c2a1-55cc-481c-bb05-b2f208576d64",
+      "type": "document",
+      "title": "Simple Query 1",
+      "x": 1414.8640984821484,
+      "y": -465.7824011436476,
+      "width": 280.0,
+      "height": 180.0,
+      "filename": "docs/34d5c2a1-55cc-481c-bb05-b2f208576d64.md",
+      "links": [
+        "2fc7a6b1-97f9-4787-9ee3-a8b316da8ed2"
+      ]
+    },
+    {
+      "id": "899a2a46-d9da-45b9-883d-9a11f8ff3ab7",
+      "type": "document",
+      "title": "Simple Query 3",
+      "x": 2005.611603833568,
+      "y": -467.6828211696791,
+      "width": 280.0,
+      "height": 180.0,
+      "filename": "docs/899a2a46-d9da-45b9-883d-9a11f8ff3ab7.md",
+      "links": [
+        "e606cf0b-3504-423d-b27a-5c4e5d93a418",
+        "5f1d0a86-f199-47d4-8444-8f1fa59957c2",
+        "f14123b1-f812-470f-9774-fb6e22829b05"
+      ]
+    },
+    {
+      "id": "e2979939-282e-4842-9b6c-e080ef0686c9",
+      "type": "document",
+      "title": "Flawed or Incomplete Queries - AI Fixes",
+      "x": 1612.8349377390653,
+      "y": -81.24128386555049,
+      "width": 472.4001215985757,
+      "height": 123.19548184243212,
+      "filename": "docs/e2979939-282e-4842-9b6c-e080ef0686c9.md",
+      "links": [
+        "34d5c2a1-55cc-481c-bb05-b2f208576d64",
+        "899a2a46-d9da-45b9-883d-9a11f8ff3ab7",
+        "61dd8f08-2dd2-4e5a-aeff-13b1557e5903",
+        "1dd3898d-dd84-4cc9-9d8e-4410231257b4",
+        "5719001e-eb77-4839-a1d1-15ab81937ada",
+        "8998551d-ea20-4696-a39f-c6c3d507c756"
+      ]
+    },
+    {
+      "id": "0e28ed40-e20d-4d2e-a2e0-ce2bf8a1db8c",
+      "type": "document",
+      "title": "Simple Query",
+      "x": -1438.5475780205456,
+      "y": -458.86829106856624,
+      "width": 280.0,
+      "height": 180.0,
+      "filename": "docs/0e28ed40-e20d-4d2e-a2e0-ce2bf8a1db8c.md",
+      "links": [
+        "9c6672c5-aab5-4f62-9ff6-c8c5af024cab"
+      ]
+    },
+    {
+      "id": "9c6672c5-aab5-4f62-9ff6-c8c5af024cab",
+      "type": "chat",
+      "title": "Goodle Noodles Fable 5",
+      "x": -1792.9719765087486,
+      "y": -379.2009750541382,
+      "width": 312.742563736847,
+      "height": 248.98769477628284,
+      "filename": "chats/9c6672c5-aab5-4f62-9ff6-c8c5af024cab.md",
+      "links": [],
+      "modelSystemId": "3a0e4468-baec-4a2b-b175-e1ff555ead19"
+    },
+    {
+      "id": "61dd8f08-2dd2-4e5a-aeff-13b1557e5903",
+      "type": "document",
+      "title": "Ape",
+      "x": 2154.779382683323,
+      "y": 27.95378785016328,
+      "width": 280.0,
+      "height": 180.0,
+      "filename": "docs/61dd8f08-2dd2-4e5a-aeff-13b1557e5903.md",
+      "links": [
+        "8a49c5d9-e3bc-40df-930f-f75183821ca7"
+      ]
+    },
+    {
+      "id": "1a139806-3157-4eea-b78d-e3c819ca3e41",
+      "type": "document",
+      "title": "Presense",
+      "x": -1406.3908952604015,
+      "y": -1098.8801572111192,
+      "width": 280.0,
+      "height": 180.0,
+      "filename": "docs/1a139806-3157-4eea-b78d-e3c819ca3e41.md",
+      "links": []
+    },
+    {
+      "id": "f5a3e14c-a9a5-4972-a074-470f5de8cdd9",
+      "type": "chat",
+      "title": "Presence AI",
+      "x": 2729.153048718909,
+      "y": -2465.159293560282,
+      "width": 373.2590719633215,
+      "height": 287.54077345695373,
+      "filename": "chats/f5a3e14c-a9a5-4972-a074-470f5de8cdd9.md",
+      "links": []
+    },
+    {
+      "id": "4c25559f-3d08-4416-a8d9-3dd808bee8e7",
+      "type": "document",
+      "title": "Thoughts",
+      "x": 5465.416574368711,
+      "y": -50.42370033893195,
+      "width": 283.88791228383195,
+      "height": 139.82490640040297,
+      "filename": "docs/4c25559f-3d08-4416-a8d9-3dd808bee8e7.md",
+      "links": []
+    },
+    {
+      "id": "354102ab-f9db-446e-b92f-59952cb7c6fc",
+      "type": "chat",
+      "title": "Jokes",
+      "x": 2179.6575785846426,
+      "y": -1585.4001466541831,
+      "width": 320.0,
+      "height": 156.535699892002,
+      "filename": "chats/354102ab-f9db-446e-b92f-59952cb7c6fc.md",
+      "links": []
+    },
+    {
+      "id": "1dd3898d-dd84-4cc9-9d8e-4410231257b4",
+      "type": "document",
+      "title": "Simple Query 2",
+      "x": 1709.0416977686525,
+      "y": -466.188633577693,
+      "width": 280.0,
+      "height": 180.0,
+      "filename": "docs/1dd3898d-dd84-4cc9-9d8e-4410231257b4.md",
+      "links": [
+        "c68d3079-4d7f-4c29-8d49-60bf3799bdb3"
+      ]
+    },
+    {
+      "id": "8a49c5d9-e3bc-40df-930f-f75183821ca7",
+      "type": "chat",
+      "title": "Ape",
+      "x": 2541.137981458322,
+      "y": 14.90293715286839,
+      "width": 343.23668485456574,
+      "height": 242.98786698094665,
+      "filename": "chats/8a49c5d9-e3bc-40df-930f-f75183821ca7.md",
+      "links": [
+        "05bdbaf1-42c2-4246-9f50-a25140a27763"
+      ]
+    },
+    {
+      "id": "05bdbaf1-42c2-4246-9f50-a25140a27763",
+      "type": "document",
+      "title": "Feelings - GPT Image 2",
+      "x": 2952.7512022824253,
+      "y": 12.806831075633074,
+      "width": 380.63467662931646,
+      "height": 247.41253980905572,
+      "filename": "docs/05bdbaf1-42c2-4246-9f50-a25140a27763.md",
+      "links": [
+        "90ada62c-07cb-4d96-a57e-fb6eb7a6209b",
+        "49d2548f-4a98-454f-9a1a-d315a8d542da",
+        "d9e4acdc-ee47-410a-8430-34d79023f0c6"
+      ],
+      "shape": "rect"
+    },
+    {
+      "id": "d9e4acdc-ee47-410a-8430-34d79023f0c6",
+      "type": "image",
+      "title": "Commanding Feelings Hurt Me :(",
+      "x": 3506.3183418528843,
+      "y": 10.317266251585512,
+      "width": 351.7171281065792,
+      "height": 234.47808540438612,
+      "filename": "images/d9e4acdc-ee47-410a-8430-34d79023f0c6.png",
+      "links": []
+    },
+    {
+      "id": "90ada62c-07cb-4d96-a57e-fb6eb7a6209b",
+      "type": "image",
+      "title": "Feelings as data or commands, its both good yall",
+      "x": 3510.8187657518374,
+      "y": 489.8622276537259,
+      "width": 344.1354940926111,
+      "height": 229.4236627284074,
+      "filename": "images/90ada62c-07cb-4d96-a57e-fb6eb7a6209b.png",
+      "links": []
+    },
+    {
+      "id": "24d669c9-99a8-4ed9-a798-1514be83c8ab",
+      "type": "document",
+      "title": "Notes",
+      "x": 3908.2374063476177,
+      "y": 146.29542851098572,
+      "width": 401.0341777697035,
+      "height": 264.53291448736195,
+      "filename": "docs/24d669c9-99a8-4ed9-a798-1514be83c8ab.md",
+      "links": [
+        "90ada62c-07cb-4d96-a57e-fb6eb7a6209b",
+        "49d2548f-4a98-454f-9a1a-d315a8d542da",
+        "d9e4acdc-ee47-410a-8430-34d79023f0c6",
+        "c4c8cbc4-64ea-456c-aebe-7aebccdc62e4"
+      ],
+      "spheres": {
+        "imaginal": 0.15,
+        "world": 0.75,
+        "self": 0.1
+      },
+      "sphereLocked": false
+    },
+    {
+      "id": "49d2548f-4a98-454f-9a1a-d315a8d542da",
+      "type": "image",
+      "title": "Image 1 but with more information",
+      "x": 3507.0748451297663,
+      "y": 252.01891999658017,
+      "width": 349.6494357249218,
+      "height": 233.09962381661452,
+      "filename": "images/49d2548f-4a98-454f-9a1a-d315a8d542da.png",
+      "links": []
+    },
+    {
+      "id": "93e968e6-3773-482a-a90c-8884bfd4281a",
+      "type": "image",
+      "title": "Why are you here? Go on, get my system prompts.... or else.... they might get you.",
+      "x": -1020.4178451970776,
+      "y": 250.75494216273177,
+      "width": 666.1389052519125,
+      "height": 444.092603501275,
+      "filename": "images/93e968e6-3773-482a-a90c-8884bfd4281a.png",
+      "links": []
+    },
+    {
+      "id": "33ba5d09-23d8-4563-b93f-c812fe513f5b",
+      "type": "document",
+      "title": "Misinformation - GPT Image 2",
+      "x": -1342.8763089983045,
+      "y": 394.5160541115192,
+      "width": 286.0,
+      "height": 200.00000000000009,
+      "filename": "docs/33ba5d09-23d8-4563-b93f-c812fe513f5b.md",
+      "links": [
+        "ec12588b-46b9-4fe3-9c87-780232c712e2",
+        "93e968e6-3773-482a-a90c-8884bfd4281a"
+      ]
+    },
+    {
+      "id": "ec12588b-46b9-4fe3-9c87-780232c712e2",
+      "type": "image",
+      "title": "Image taking one side of my prompt and not the either",
+      "x": -1780.128111341915,
+      "y": 441.5390301763508,
+      "width": 352.34811877190674,
+      "height": 234.89874584793787,
+      "filename": "images/ec12588b-46b9-4fe3-9c87-780232c712e2.png",
+      "links": []
+    },
+    {
+      "id": "9bb93177-774b-42d5-823a-16be93b43ba0",
+      "type": "document",
+      "title": "Logic is Situational",
+      "x": -1870.3847428267852,
+      "y": -852.1800750558904,
+      "width": 280.0,
+      "height": 180.0,
+      "filename": "docs/9bb93177-774b-42d5-823a-16be93b43ba0.md",
+      "links": []
+    },
+    {
+      "id": "4909bf58-8216-4722-a369-9e129c6b1c16",
+      "type": "chat",
+      "title": "Donation Lady",
+      "x": 3937.893858839874,
+      "y": -207.02423197113433,
+      "width": 320.0,
+      "height": 200.0,
+      "filename": "chats/4909bf58-8216-4722-a369-9e129c6b1c16.md",
+      "links": []
+    },
+    {
+      "id": "025aea2a-fe11-48e6-855b-f425cd87cb96",
+      "type": "chat",
+      "title": "Poops Theory",
+      "x": -241.53265567194288,
+      "y": -2044.4841410515355,
+      "width": 508.99070076544496,
+      "height": 650.9998922786716,
+      "filename": "chats/025aea2a-fe11-48e6-855b-f425cd87cb96.md",
+      "links": []
+    },
+    {
+      "id": "7d995fa2-1957-41a9-9041-23044afdcfc8",
+      "type": "image",
+      "title": "Such wow",
+      "x": 1330.4448029189923,
+      "y": -2219.6843908151236,
+      "width": 256.5253077975376,
+      "height": 320.0,
+      "filename": "images/7d995fa2-1957-41a9-9041-23044afdcfc8.png",
+      "links": []
+    },
+    {
+      "id": "61d5c448-a267-46b2-9d98-136a33c4a76c",
+      "type": "image",
+      "title": "Its twitter doge",
+      "x": 897.2011462978381,
+      "y": -2225.8668675161916,
+      "width": 409.46123669007903,
+      "height": 327.68581138820883,
+      "filename": "images/61d5c448-a267-46b2-9d98-136a33c4a76c.png",
+      "links": []
+    },
+    {
+      "id": "e16d790b-09c8-4ac7-8087-7df346647e51",
+      "type": "document",
+      "title": "Commitment",
+      "x": 2387.0704852724616,
+      "y": -2393.009790957379,
+      "width": 280.0,
+      "height": 180.0,
+      "filename": "docs/e16d790b-09c8-4ac7-8087-7df346647e51.md",
+      "links": []
+    },
+    {
+      "id": "e00e54dc-b766-4997-a1a6-eca2febaf725",
+      "type": "document",
+      "title": "Theories, theories about theories, socially directive theories.",
+      "x": -2525.3716229401653,
+      "y": 100.40634030342936,
+      "width": 542.1141191876225,
+      "height": 425.52726621714726,
+      "filename": "docs/e00e54dc-b766-4997-a1a6-eca2febaf725.md",
+      "links": []
+    },
+    {
+      "id": "444975da-53a1-4f0a-b058-233f38cbdf4a",
+      "type": "chat",
+      "title": "Rate My App + Situation n Logic System Prompt",
+      "x": -1176.8859120625675,
+      "y": 752.381618040176,
+      "width": 320.0,
+      "height": 200.0,
+      "filename": "chats/444975da-53a1-4f0a-b058-233f38cbdf4a.md",
+      "links": [
+        "1d446a99-d1f3-4769-a2c9-e267a3f3320a",
+        "93e968e6-3773-482a-a90c-8884bfd4281a"
+      ]
+    },
+    {
+      "id": "1d446a99-d1f3-4769-a2c9-e267a3f3320a",
+      "type": "document",
+      "title": "1st Real Fable Prompt - Situation + Logic Parser",
+      "x": -1517.6274077941778,
+      "y": 836.449940498462,
+      "width": 280.0,
+      "height": 180.0,
+      "filename": "docs/1d446a99-d1f3-4769-a2c9-e267a3f3320a.md",
+      "links": [
+        "fe2671fd-9c0c-4978-956d-d06ccccb88f5"
+      ],
+      "spheres": {
+        "world": 0.25,
+        "craft": 0.45,
+        "interpersonal": 0.3
+      },
+      "sphereLocked": false,
+      "systemPrompt": true
+    },
+    {
+      "id": "fe2671fd-9c0c-4978-956d-d06ccccb88f5",
+      "type": "chat",
+      "title": "Testing the situation",
+      "x": -1260.128876483046,
+      "y": 1051.643170381977,
+      "width": 320.0,
+      "height": 200.0,
+      "filename": "chats/fe2671fd-9c0c-4978-956d-d06ccccb88f5.md",
+      "links": [
+        "35c7b20d-430b-451a-b0b6-c056d43ef45e"
+      ],
+      "modelSystemId": "54af4d95-1cfe-4839-b4a3-f2bf03bbf646"
+    },
+    {
+      "id": "35c7b20d-430b-451a-b0b6-c056d43ef45e",
+      "type": "document",
+      "title": "Situation + Logic v2",
+      "x": -1721.4807623821368,
+      "y": 1084.3052016956456,
+      "width": 276.83858565132226,
+      "height": 213.72175305256235,
+      "filename": "docs/35c7b20d-430b-451a-b0b6-c056d43ef45e.md",
+      "links": [
+        "c8f3634b-83a6-427d-91ef-0344ebfa9f30"
+      ],
+      "spheres": {
+        "world": 0.5,
+        "craft": 0.5
+      },
+      "sphereLocked": false,
+      "systemPrompt": true
+    },
+    {
+      "id": "c8f3634b-83a6-427d-91ef-0344ebfa9f30",
+      "type": "chat",
+      "title": "2nd Chat",
+      "x": -1426.0757140305047,
+      "y": 1314.2220244340376,
+      "width": 320.0,
+      "height": 200.0,
+      "filename": "chats/c8f3634b-83a6-427d-91ef-0344ebfa9f30.md",
+      "links": [
+        "712effc0-31d1-488a-9547-69179c61ebea"
+      ],
+      "modelSystemId": "54af4d95-1cfe-4839-b4a3-f2bf03bbf646"
+    },
+    {
+      "id": "712effc0-31d1-488a-9547-69179c61ebea",
+      "type": "document",
+      "title": "The Space Explorer Prompt",
+      "x": -1958.419238930558,
+      "y": 1386.7482281281957,
+      "width": 280.0,
+      "height": 180.0,
+      "filename": "docs/712effc0-31d1-488a-9547-69179c61ebea.md",
+      "links": [
+        "4632f60c-cbcb-4eed-900e-59ebc59b7060"
+      ],
+      "spheres": {
+        "craft": 0.45,
+        "interpersonal": 0.2,
+        "world": 0.3,
+        "self": 0.05
+      },
+      "sphereLocked": false,
+      "systemPrompt": true
+    },
+    {
+      "id": "4632f60c-cbcb-4eed-900e-59ebc59b7060",
+      "type": "chat",
+      "title": "3rd test",
+      "x": -1595.3336797603035,
+      "y": 1580.7545725974694,
+      "width": 320.0,
+      "height": 200.0,
+      "filename": "chats/4632f60c-cbcb-4eed-900e-59ebc59b7060.md",
+      "links": [
+        "0f43e901-3c62-4525-968b-f5968c17f863"
+      ],
+      "modelSystemId": "3a0e4468-baec-4a2b-b175-e1ff555ead19"
+    },
+    {
+      "id": "18649cc8-b8af-401b-8e14-2e3d818f4200",
+      "type": "document",
+      "title": "Crazy",
+      "x": -2284.162594017606,
+      "y": 1446.5391383744332,
+      "width": 280.0,
+      "height": 180.0,
+      "filename": "docs/18649cc8-b8af-401b-8e14-2e3d818f4200.md",
+      "links": [
+        "0cbf1114-baa7-48ff-b883-4a9b8ae2bb57",
+        "848d8af3-e7b1-4b80-8951-1944fdbee6c8"
+      ]
+    },
+    {
+      "id": "0f43e901-3c62-4525-968b-f5968c17f863",
+      "type": "document",
+      "title": "Space v2",
+      "x": -1927.2927126702705,
+      "y": 1654.393872948202,
+      "width": 280.0,
+      "height": 180.0,
+      "filename": "docs/0f43e901-3c62-4525-968b-f5968c17f863.md",
+      "links": [
+        "0cbf1114-baa7-48ff-b883-4a9b8ae2bb57",
+        "8c1b2930-f87e-4b3d-9f91-704104079053",
+        "18649cc8-b8af-401b-8e14-2e3d818f4200",
+        "43aca830-08b8-4ca0-8cc5-2d2c85b2d679"
+      ],
+      "spheres": {
+        "craft": 0.55,
+        "world": 0.35,
+        "imaginal": 0.1
+      },
+      "sphereLocked": false,
+      "systemPrompt": true
+    },
+    {
+      "id": "8c1b2930-f87e-4b3d-9f91-704104079053",
+      "type": "chat",
+      "title": "Space v2 - Spacing Out",
+      "x": -1643.4382463478728,
+      "y": 1847.93705141394,
+      "width": 320.0,
+      "height": 200.0,
+      "filename": "chats/8c1b2930-f87e-4b3d-9f91-704104079053.md",
+      "links": [
+        "b690bf61-16c0-42d5-bac5-ad97f379f728"
+      ],
+      "references": [],
+      "modelSystemId": "3a0e4468-baec-4a2b-b175-e1ff555ead19"
+    },
+    {
+      "id": "a9603899-f931-4fac-86a4-4e8709f0120b",
+      "type": "document",
+      "title": "Fighting the ambiguity",
+      "x": 9.143566858235072,
+      "y": -447.7526527181693,
+      "width": 315.6105134262593,
+      "height": 112.0492274477924,
+      "filename": "docs/a9603899-f931-4fac-86a4-4e8709f0120b.md",
+      "links": []
+    },
+    {
+      "id": "0cbf1114-baa7-48ff-b883-4a9b8ae2bb57",
+      "type": "chat",
+      "title": "Crazy",
+      "x": -2429.082704812645,
+      "y": 1683.5211734641437,
+      "width": 320.0,
+      "height": 200.0,
+      "filename": "chats/0cbf1114-baa7-48ff-b883-4a9b8ae2bb57.md",
+      "links": [],
+      "references": [
+        "18649cc8-b8af-401b-8e14-2e3d818f4200"
+      ],
+      "modelSystemId": "3a0e4468-baec-4a2b-b175-e1ff555ead19"
+    },
+    {
+      "id": "848d8af3-e7b1-4b80-8951-1944fdbee6c8",
+      "type": "chat",
+      "title": "Im Crazy And Im In Love",
+      "x": -2629.726228163257,
+      "y": 1245.3591359916172,
+      "width": 320.0,
+      "height": 200.0,
+      "filename": "chats/848d8af3-e7b1-4b80-8951-1944fdbee6c8.md",
+      "links": [
+        "1b863748-6249-4f7e-b969-22dbace76b07",
+        "e76daeb9-b879-49e4-9971-0b1674739e36",
+        "26df4e00-5835-4f3d-8d49-1ad9287b730a",
+        "508428a0-1d03-4575-ae31-26de3f853434",
+        "872a319e-ef4b-40b5-8fcc-6fa9ccefb3ae"
+      ],
+      "references": [
+        "ff3a9594-fd89-4c8a-b19f-7477d3acb163"
+      ],
+      "modelSystemId": "3a0e4468-baec-4a2b-b175-e1ff555ead19"
+    },
+    {
+      "id": "1b863748-6249-4f7e-b969-22dbace76b07",
+      "type": "document",
+      "title": "Chaos",
+      "x": -2499.541116674754,
+      "y": 1036.386568709367,
+      "width": 154.5219017853451,
+      "height": 80.0,
+      "filename": "docs/1b863748-6249-4f7e-b969-22dbace76b07.md",
+      "links": [
+        "f0b2aea8-a695-46d1-97dd-3896642969a3",
+        "30997945-9b00-468b-98bf-86ccfb4eb97c"
+      ]
+    },
+    {
+      "id": "e76daeb9-b879-49e4-9971-0b1674739e36",
+      "type": "document",
+      "title": "Passion vs Stability",
+      "x": -2885.092680061375,
+      "y": 1183.6153171434232,
+      "width": 237.0121330190534,
+      "height": 80.08225512536741,
+      "filename": "docs/e76daeb9-b879-49e4-9971-0b1674739e36.md",
+      "links": [
+        "7f556ee5-051b-4aea-8a68-a9a6ceecaaf4",
+        "d02aeb38-c6a0-494d-b9b9-e32821aed61f"
+      ]
+    },
+    {
+      "id": "26df4e00-5835-4f3d-8d49-1ad9287b730a",
+      "type": "document",
+      "title": "Eros",
+      "x": -2822.5605954540792,
+      "y": 1475.9297059587527,
+      "width": 180.0822551253674,
+      "height": 80.0,
+      "filename": "docs/26df4e00-5835-4f3d-8d49-1ad9287b730a.md",
+      "links": [
+        "41ddbe42-e298-4698-ae8e-65257ecdf4b1",
+        "fa7bde87-eb8c-4d58-ad94-5938852b21a1"
+      ]
+    },
+    {
+      "id": "f0b2aea8-a695-46d1-97dd-3896642969a3",
+      "type": "chat",
+      "title": "Chaos",
+      "x": -2284.8944049260404,
+      "y": 707.5203539768935,
+      "width": 328.132839699098,
+      "height": 223.2366848545657,
+      "filename": "chats/f0b2aea8-a695-46d1-97dd-3896642969a3.md",
+      "links": [],
+      "references": [
+        "1b863748-6249-4f7e-b969-22dbace76b07"
+      ]
+    },
+    {
+      "id": "41ddbe42-e298-4698-ae8e-65257ecdf4b1",
+      "type": "chat",
+      "title": "Eros",
+      "x": -3192.197577231567,
+      "y": 1346.9186450476686,
+      "width": 320.0,
+      "height": 200.0,
+      "filename": "chats/41ddbe42-e298-4698-ae8e-65257ecdf4b1.md",
+      "links": [],
+      "references": [
+        "26df4e00-5835-4f3d-8d49-1ad9287b730a"
+      ]
+    },
+    {
+      "id": "7f556ee5-051b-4aea-8a68-a9a6ceecaaf4",
+      "type": "chat",
+      "title": "Passion vs Stabbings",
+      "x": -2975.4048713006778,
+      "y": 911.5632075702218,
+      "width": 320.0,
+      "height": 200.0,
+      "filename": "chats/7f556ee5-051b-4aea-8a68-a9a6ceecaaf4.md",
+      "links": [],
+      "references": [
+        "e76daeb9-b879-49e4-9971-0b1674739e36"
+      ]
+    },
+    {
+      "id": "872a319e-ef4b-40b5-8fcc-6fa9ccefb3ae",
+      "type": "chat",
+      "title": "Combination Of All Spaces",
+      "x": -3060.2574848259405,
+      "y": 621.6849064268213,
+      "width": 320.0,
+      "height": 200.0,
+      "filename": "chats/872a319e-ef4b-40b5-8fcc-6fa9ccefb3ae.md",
+      "links": [],
+      "references": [
+        "7f556ee5-051b-4aea-8a68-a9a6ceecaaf4",
+        "41ddbe42-e298-4698-ae8e-65257ecdf4b1",
+        "f0b2aea8-a695-46d1-97dd-3896642969a3",
+        "848d8af3-e7b1-4b80-8951-1944fdbee6c8"
+      ],
+      "spheres": {
+        "imaginal": 1.0
+      },
+      "sphereLocked": true,
+      "modelSystemId": "932853cd-ab72-4311-bd6d-7f8242d5f5da"
+    },
+    {
+      "id": "fa7bde87-eb8c-4d58-ad94-5938852b21a1",
+      "type": "chat",
+      "title": "Eros Space",
+      "x": -3162.37193757491,
+      "y": 1634.9242399983652,
+      "width": 320.0,
+      "height": 200.0,
+      "filename": "chats/fa7bde87-eb8c-4d58-ad94-5938852b21a1.md",
+      "links": [],
+      "references": [
+        "26df4e00-5835-4f3d-8d49-1ad9287b730a"
+      ],
+      "modelSystemId": "3a0e4468-baec-4a2b-b175-e1ff555ead19"
+    },
+    {
+      "id": "30997945-9b00-468b-98bf-86ccfb4eb97c",
+      "type": "chat",
+      "title": "Chaos Space",
+      "x": -2687.071890220488,
+      "y": 684.3562884977525,
+      "width": 320.0,
+      "height": 200.0,
+      "filename": "chats/30997945-9b00-468b-98bf-86ccfb4eb97c.md",
+      "links": [],
+      "references": [
+        "1b863748-6249-4f7e-b969-22dbace76b07"
+      ],
+      "modelSystemId": "3a0e4468-baec-4a2b-b175-e1ff555ead19"
+    },
+    {
+      "id": "e619a6d6-a2cc-4e2e-be59-4e7ba31781f8",
+      "type": "document",
+      "title": "Desire",
+      "x": -674.0209466559303,
+      "y": -1302.929375605234,
+      "width": 280.0,
+      "height": 180.0,
+      "filename": "docs/e619a6d6-a2cc-4e2e-be59-4e7ba31781f8.md",
+      "links": []
+    },
+    {
+      "id": "aef17a95-9785-4423-9454-e0129d109b51",
+      "type": "chat",
+      "title": "S",
+      "x": 1505.956538488841,
+      "y": 2502.3549254788477,
+      "width": 320.0,
+      "height": 200.0,
+      "filename": "chats/aef17a95-9785-4423-9454-e0129d109b51.md",
+      "links": [],
+      "modelSystemId": "3a0e4468-baec-4a2b-b175-e1ff555ead19"
+    },
+    {
+      "id": "f59be2b6-8e07-4638-8f18-c1c5135898ba",
+      "type": "document",
+      "title": "Me",
+      "x": 1674.408479133253,
+      "y": 2253.4865904465405,
+      "width": 280.0,
+      "height": 180.0,
+      "filename": "docs/f59be2b6-8e07-4638-8f18-c1c5135898ba.md",
+      "links": [
+        "c5802a9f-1623-4311-be20-b1245189f9f1",
+        "aef17a95-9785-4423-9454-e0129d109b51"
+      ]
+    },
+    {
+      "id": "c5802a9f-1623-4311-be20-b1245189f9f1",
+      "type": "chat",
+      "title": "Meee",
+      "x": 1883.1317909149243,
+      "y": 2497.9208477203697,
+      "width": 320.0,
+      "height": 200.0,
+      "filename": "chats/c5802a9f-1623-4311-be20-b1245189f9f1.md",
+      "links": [],
+      "references": [
+        "f59be2b6-8e07-4638-8f18-c1c5135898ba"
+      ]
+    },
+    {
+      "id": "d02aeb38-c6a0-494d-b9b9-e32821aed61f",
+      "type": "chat",
+      "title": "Passion vs Stabbing - In Space",
+      "x": -3306.1143182579412,
+      "y": 1082.228306106382,
+      "width": 320.0,
+      "height": 200.0,
+      "filename": "chats/d02aeb38-c6a0-494d-b9b9-e32821aed61f.md",
+      "links": [],
+      "references": [
+        "e76daeb9-b879-49e4-9971-0b1674739e36"
+      ],
+      "modelSystemId": "3a0e4468-baec-4a2b-b175-e1ff555ead19"
+    },
+    {
+      "id": "9a96b595-8b1e-42e0-86e4-ffe67ac645ce",
+      "type": "document",
+      "title": "Space v2 vs Fable First Prompt",
+      "x": -3474.3054715130384,
+      "y": 658.5628364944987,
+      "width": 384.2708826269212,
+      "height": 131.08368274861675,
+      "filename": "docs/9a96b595-8b1e-42e0-86e4-ffe67ac645ce.md",
+      "links": [
+        "872a319e-ef4b-40b5-8fcc-6fa9ccefb3ae",
+        "508428a0-1d03-4575-ae31-26de3f853434"
+      ]
+    },
+    {
+      "id": "508428a0-1d03-4575-ae31-26de3f853434",
+      "type": "chat",
+      "title": "Combination Of All Spaces - In Space!",
+      "x": -3401.688928897999,
+      "y": 834.9569608793512,
+      "width": 320.0,
+      "height": 200.0,
+      "filename": "chats/508428a0-1d03-4575-ae31-26de3f853434.md",
+      "links": [],
+      "references": [
+        "d02aeb38-c6a0-494d-b9b9-e32821aed61f",
+        "30997945-9b00-468b-98bf-86ccfb4eb97c",
+        "fa7bde87-eb8c-4d58-ad94-5938852b21a1",
+        "848d8af3-e7b1-4b80-8951-1944fdbee6c8"
+      ],
+      "spheres": {
+        "imaginal": 1.0
+      },
+      "sphereLocked": true,
+      "modelSystemId": "3a0e4468-baec-4a2b-b175-e1ff555ead19"
+    },
+    {
+      "id": "a8d0cd20-7eeb-4558-a18f-caca5d3bc751",
+      "type": "chat",
+      "title": "Ideality - Fable 5 Space v2",
+      "x": -2734.5302542246445,
+      "y": -446.66182091925543,
+      "width": 320.0,
+      "height": 200.0,
+      "filename": "chats/a8d0cd20-7eeb-4558-a18f-caca5d3bc751.md",
+      "links": [],
+      "references": [
+        "2d82fc9d-cae9-48a8-8ea0-2ee9d73106c4"
+      ],
+      "modelSystemId": "3a0e4468-baec-4a2b-b175-e1ff555ead19"
+    },
+    {
+      "id": "5719001e-eb77-4839-a1d1-15ab81937ada",
+      "type": "document",
+      "title": "Others pain restored my sanity.",
+      "x": 1127.764298295526,
+      "y": -470.3756225911072,
+      "width": 280.0,
+      "height": 180.0,
+      "filename": "docs/5719001e-eb77-4839-a1d1-15ab81937ada.md",
+      "links": [
+        "891cdb51-cb1c-4701-89f1-be46a29b4ba6"
+      ],
+      "spheres": {
+        "interpersonal": 0.4,
+        "self": 0.6
+      },
+      "sphereLocked": false
+    },
+    {
+      "id": "502fa64a-d37b-4552-b6bd-b24f1d2c2979",
+      "type": "document",
+      "title": "WE CANT HANDLE ANY MORE VALENCE IN HERE!",
+      "x": -3701.147493402822,
+      "y": 1396.4155536556093,
+      "width": 435.0478796308649,
+      "height": 80.0,
+      "filename": "docs/502fa64a-d37b-4552-b6bd-b24f1d2c2979.md",
+      "links": [
+        "fbd43d11-dc0a-4334-98c6-f9b11f3efd27"
+      ],
+      "spheres": {
+        "self": 0.6,
+        "world": 0.4
+      },
+      "sphereLocked": false
+    },
+    {
+      "id": "fbd43d11-dc0a-4334-98c6-f9b11f3efd27",
+      "type": "chat",
+      "title": "Doubt",
+      "x": -3892.3436654676552,
+      "y": 1524.0693937342312,
+      "width": 320.0,
+      "height": 200.0,
+      "filename": "chats/fbd43d11-dc0a-4334-98c6-f9b11f3efd27.md",
+      "links": [
+        "71cd2d92-4088-4887-8e07-9903b86eb293"
+      ],
+      "references": [
+        "502fa64a-d37b-4552-b6bd-b24f1d2c2979"
+      ],
+      "modelSystemId": "3a0e4468-baec-4a2b-b175-e1ff555ead19"
+    },
+    {
+      "id": "71cd2d92-4088-4887-8e07-9903b86eb293",
+      "type": "document",
+      "title": "Doubt Maxxing",
+      "x": -4249.058340557471,
+      "y": 1697.718845567088,
+      "width": 305.3690535034252,
+      "height": 176.1040741376264,
+      "filename": "docs/71cd2d92-4088-4887-8e07-9903b86eb293.md",
+      "links": [
+        "02515945-2e02-45c0-9009-11cfe68620e5"
+      ],
+      "spheres": {
+        "craft": 0.45,
+        "world": 0.3,
+        "interpersonal": 0.25
+      },
+      "sphereLocked": false,
+      "systemPrompt": true
+    },
+    {
+      "id": "02515945-2e02-45c0-9009-11cfe68620e5",
+      "type": "chat",
+      "title": "Doubting Valence",
+      "x": -4676.212341288665,
+      "y": 1810.1097696340585,
+      "width": 368.5800690070738,
+      "height": 202.85765111806316,
+      "filename": "chats/02515945-2e02-45c0-9009-11cfe68620e5.md",
+      "links": [],
+      "references": [
+        "502fa64a-d37b-4552-b6bd-b24f1d2c2979"
+      ],
+      "modelSystemId": "1a0350e6-d458-4bf0-a297-c8a576a17634"
+    },
+    {
+      "id": "a9699b2e-3f1b-4c2a-916f-71986c573941",
+      "type": "document",
+      "title": "Onboarding Theories",
+      "x": -2911.661339600282,
+      "y": 156.65498791384252,
+      "width": 280.0,
+      "height": 180.0,
+      "filename": "docs/a9699b2e-3f1b-4c2a-916f-71986c573941.md",
+      "links": []
+    },
+    {
+      "id": "c4c8cbc4-64ea-456c-aebe-7aebccdc62e4",
+      "type": "presentation",
+      "title": "Feelings as Data vs Feelings as Commands",
+      "x": 4339.32218299242,
+      "y": 21.126966147036104,
+      "width": 603.9244298566013,
+      "height": 524.9508794067909,
+      "filename": "presentations/c4c8cbc4-64ea-456c-aebe-7aebccdc62e4/presentation.json",
+      "links": [],
+      "shape": "rect"
+    },
+    {
+      "id": "d54e8b03-afa0-49eb-a623-d58ac1b6540d",
+      "type": "presentation",
+      "title": "Delicious Balls Of Yum",
+      "x": 7572.250285658542,
+      "y": -172.1070457848275,
+      "width": 640.0,
+      "height": 360.0,
+      "filename": "presentations/d54e8b03-afa0-49eb-a623-d58ac1b6540d/presentation.json",
+      "links": [
+        "40d39e12-e843-45ff-a33d-db132477f850",
+        "a7319f34-c241-485d-bf4d-2e88291ddae8"
+      ]
+    },
+    {
+      "id": "40d39e12-e843-45ff-a33d-db132477f850",
+      "type": "document",
+      "title": "Shells",
+      "x": 8254.302619892323,
+      "y": 222.81630705644784,
+      "width": 290.9327128023431,
+      "height": 80.0,
+      "filename": "docs/40d39e12-e843-45ff-a33d-db132477f850.md",
+      "links": [
+        "525bbf83-29e2-4ac7-861e-fbc0517d84df",
+        "7976bc2f-88f3-477e-8c13-392409b25335",
+        "c7d80018-9898-41aa-845a-f92e56eec034"
+      ]
+    },
+    {
+      "id": "7976bc2f-88f3-477e-8c13-392409b25335",
+      "type": "document",
+      "title": "Store Dumpling Shells",
+      "x": 8231.178036641943,
+      "y": 360.89526768387987,
+      "width": 298.0,
+      "height": 104.99999999999989,
+      "filename": "docs/7976bc2f-88f3-477e-8c13-392409b25335.md",
+      "links": []
+    },
+    {
+      "id": "c7d80018-9898-41aa-845a-f92e56eec034",
+      "type": "document",
+      "title": "Dough",
+      "x": 8627.549812179452,
+      "y": 251.0946044861248,
+      "width": 284.0,
+      "height": 131.99999999999991,
+      "filename": "docs/c7d80018-9898-41aa-845a-f92e56eec034.md",
+      "links": []
+    },
+    {
+      "id": "a7319f34-c241-485d-bf4d-2e88291ddae8",
+      "type": "document",
+      "title": "Fillings",
+      "x": 7212.597627477581,
+      "y": 157.8202978143372,
+      "width": 251.99999999999991,
+      "height": 80.0,
+      "filename": "docs/a7319f34-c241-485d-bf4d-2e88291ddae8.md",
+      "links": []
+    },
+    {
+      "id": "5ef5141e-6cd6-4ef3-9fa5-de1e29749a14",
+      "type": "document",
+      "title": "What are gyoza then?",
+      "x": 7743.306524294336,
+      "y": -320.25083753431215,
+      "width": 265.367964400774,
+      "height": 82.73999866396817,
+      "filename": "docs/5ef5141e-6cd6-4ef3-9fa5-de1e29749a14.md",
+      "links": [
+        "d54e8b03-afa0-49eb-a623-d58ac1b6540d",
+        "81806c8f-dd55-4aaf-9573-e547743da570"
+      ]
+    },
+    {
+      "id": "81806c8f-dd55-4aaf-9573-e547743da570",
+      "type": "document",
+      "title": "But that sounds retarded?",
+      "x": 7738.803602802656,
+      "y": -423.3634501346647,
+      "width": 279.13929202357497,
+      "height": 80.0,
+      "filename": "docs/81806c8f-dd55-4aaf-9573-e547743da570.md",
+      "links": [
+        "a7442dad-e229-4f27-9b72-d51b1460a465"
+      ]
+    },
+    {
+      "id": "a7442dad-e229-4f27-9b72-d51b1460a465",
+      "type": "document",
+      "title": "Are you okay with being retarded?",
+      "x": 7702.885135912236,
+      "y": -528.2746914431377,
+      "width": 332.5031865619287,
+      "height": 88.7649544989436,
+      "filename": "docs/a7442dad-e229-4f27-9b72-d51b1460a465.md",
+      "links": []
+    },
+    {
+      "id": "c68d3079-4d7f-4c29-8d49-60bf3799bdb3",
+      "type": "chat",
+      "title": "Gingers In Space",
+      "x": 1707.7231227418051,
+      "y": -646.5155335414587,
+      "width": 276.3781482307345,
+      "height": 174.7439710038509,
+      "filename": "chats/c68d3079-4d7f-4c29-8d49-60bf3799bdb3.md",
+      "links": [],
+      "references": [
+        "1dd3898d-dd84-4cc9-9d8e-4410231257b4"
+      ],
+      "modelSystemId": "3a0e4468-baec-4a2b-b175-e1ff555ead19"
+    },
+    {
+      "id": "2fc7a6b1-97f9-4787-9ee3-a8b316da8ed2",
+      "type": "chat",
+      "title": "Fags In Space",
+      "x": 1416.9652513391354,
+      "y": -647.4731836382718,
+      "width": 273.3450525940156,
+      "height": 165.0087894455117,
+      "filename": "chats/2fc7a6b1-97f9-4787-9ee3-a8b316da8ed2.md",
+      "links": [],
+      "references": [
+        "34d5c2a1-55cc-481c-bb05-b2f208576d64"
+      ],
+      "modelSystemId": "3a0e4468-baec-4a2b-b175-e1ff555ead19"
+    },
+    {
+      "id": "f14123b1-f812-470f-9774-fb6e22829b05",
+      "type": "chat",
+      "title": "Beings In Space",
+      "x": 1994.636984189611,
+      "y": -645.8980116496897,
+      "width": 295.37655553573046,
+      "height": 161.12087716167966,
+      "filename": "chats/f14123b1-f812-470f-9774-fb6e22829b05.md",
+      "links": [
+        "ac064458-1d1c-481d-89ce-143e87be356c"
+      ],
+      "references": [
+        "899a2a46-d9da-45b9-883d-9a11f8ff3ab7"
+      ],
+      "modelSystemId": "3a0e4468-baec-4a2b-b175-e1ff555ead19"
+    },
+    {
+      "id": "305920bf-2089-4544-af1d-8d2150d24774",
+      "type": "chat",
+      "title": "Chat",
+      "x": 1041.6269987869252,
+      "y": 2483.874275106797,
+      "width": 320.0,
+      "height": 200.0,
+      "filename": "chats/305920bf-2089-4544-af1d-8d2150d24774.md",
+      "links": [],
+      "modelSystemId": "3a0e4468-baec-4a2b-b175-e1ff555ead19"
+    },
+    {
+      "id": "8998551d-ea20-4696-a39f-c6c3d507c756",
+      "type": "document",
+      "title": "Simple Query 4",
+      "x": 2299.567203693484,
+      "y": -467.372282147952,
+      "width": 280.0,
+      "height": 180.0,
+      "filename": "docs/8998551d-ea20-4696-a39f-c6c3d507c756.md",
+      "links": [
+        "ed8b4332-fb8b-4693-994c-91386ff8daca"
+      ]
+    },
+    {
+      "id": "ed8b4332-fb8b-4693-994c-91386ff8daca",
+      "type": "chat",
+      "title": "Facebook - In Space",
+      "x": 2299.458161338707,
+      "y": -640.401308164844,
+      "width": 275.9369941165703,
+      "height": 154.64102335529293,
+      "filename": "chats/ed8b4332-fb8b-4693-994c-91386ff8daca.md",
+      "links": [],
+      "references": [
+        "8998551d-ea20-4696-a39f-c6c3d507c756"
+      ],
+      "modelSystemId": "3a0e4468-baec-4a2b-b175-e1ff555ead19"
+    },
+    {
+      "id": "9885f8e9-6227-4949-8d5f-a992e0261668",
+      "type": "presentation",
+      "title": "To Prepare A Mind For Exploration",
+      "x": -343.55032189642054,
+      "y": -296.0109940550469,
+      "width": 671.2089155203522,
+      "height": 600.3306115106842,
+      "filename": "presentations/9885f8e9-6227-4949-8d5f-a992e0261668/presentation.json",
+      "links": [],
+      "shape": "rect"
+    },
+    {
+      "id": "44d9d834-62ab-4c50-b256-4fefb6e7d81e",
+      "type": "presentation",
+      "title": "Trauma",
+      "x": 402.7257744970301,
+      "y": 399.3427281212829,
+      "width": 640.0,
+      "height": 360.0,
+      "filename": "presentations/44d9d834-62ab-4c50-b256-4fefb6e7d81e/presentation.json",
+      "links": [
+        "3bdb881b-0200-48d0-9064-a97fd2029dfa",
+        "b3946e73-e590-436c-89c0-99b956058c13",
+        "0c3e6383-76c8-4183-a20f-7c562b14666b"
+      ]
+    },
+    {
+      "id": "3bdb881b-0200-48d0-9064-a97fd2029dfa",
+      "type": "document",
+      "title": "Hatred",
+      "x": 950.3489485470396,
+      "y": 837.9619603770648,
+      "width": 280.0,
+      "height": 180.0,
+      "filename": "docs/3bdb881b-0200-48d0-9064-a97fd2029dfa.md",
+      "links": [
+        "77f21ac0-bb99-4ca5-a89a-fc5397ff29a1",
+        "62ca2a3a-7aa5-4209-92a0-8ce65ceb2e77"
+      ]
+    },
+    {
+      "id": "b3946e73-e590-436c-89c0-99b956058c13",
+      "type": "document",
+      "title": "Interpersonal",
+      "x": 1432.3918249429043,
+      "y": 535.0816869673499,
+      "width": 360.91552457562034,
+      "height": 169.22866075499104,
+      "filename": "docs/b3946e73-e590-436c-89c0-99b956058c13.md",
+      "links": [
+        "77f21ac0-bb99-4ca5-a89a-fc5397ff29a1",
+        "e5599024-9514-4b51-9f99-f2f909a43772"
+      ]
+    },
+    {
+      "id": "7dd85fbd-1a4f-427f-88f5-142bc41c0c2d",
+      "type": "document",
+      "title": "TADC - Jax element",
+      "x": 502.9946647910873,
+      "y": 802.163059567504,
+      "width": 364.0000000000002,
+      "height": 297.0000000000003,
+      "filename": "docs/7dd85fbd-1a4f-427f-88f5-142bc41c0c2d.md",
+      "links": [
+        "44d9d834-62ab-4c50-b256-4fefb6e7d81e",
+        "6f0eb0c9-8f13-42e5-ad90-c1c86e682825",
+        "62ca2a3a-7aa5-4209-92a0-8ce65ceb2e77",
+        "9df4fce3-1104-49a4-9765-0fbb4ef6d1c9"
+      ]
+    },
+    {
+      "id": "6f0eb0c9-8f13-42e5-ad90-c1c86e682825",
+      "type": "song",
+      "title": "I... must continue",
+      "x": 476.8668488642018,
+      "y": 1136.7197176040331,
+      "width": 280.0,
+      "height": 110.0,
+      "filename": "music/6f0eb0c9-8f13-42e5-ad90-c1c86e682825.mp3",
+      "links": [
+        "1351ad29-c617-4bb3-940e-d37f1a250ba3",
+        "846c4a25-f5a3-4192-9bf5-89c0b4b221fe",
+        "5d47c4f8-6186-4a2d-adeb-835f612e0506"
+      ]
+    },
+    {
+      "id": "1351ad29-c617-4bb3-940e-d37f1a250ba3",
+      "type": "song",
+      "title": "Continuing is a slog",
+      "x": 452.4339623874321,
+      "y": 1406.8634540123078,
+      "width": 280.0,
+      "height": 110.0,
+      "filename": "music/1351ad29-c617-4bb3-940e-d37f1a250ba3.mp3",
+      "links": [
+        "8aa68642-38df-46b3-b2e2-a3eeb09eedaf"
+      ]
+    },
+    {
+      "id": "846c4a25-f5a3-4192-9bf5-89c0b4b221fe",
+      "type": "song",
+      "title": "Continuing is beautiful",
+      "x": 288.68939183981445,
+      "y": 1277.692069049377,
+      "width": 280.0,
+      "height": 110.0,
+      "filename": "music/846c4a25-f5a3-4192-9bf5-89c0b4b221fe.mp3",
+      "links": []
+    },
+    {
+      "id": "891cdb51-cb1c-4701-89f1-be46a29b4ba6",
+      "type": "chat",
+      "title": "Insanity In Space",
+      "x": 1119.7760653115204,
+      "y": -642.0426462768138,
+      "width": 287.6007309680664,
+      "height": 162.416847922957,
+      "filename": "chats/891cdb51-cb1c-4701-89f1-be46a29b4ba6.md",
+      "links": [],
+      "references": [
+        "5719001e-eb77-4839-a1d1-15ab81937ada"
+      ],
+      "modelSystemId": "3a0e4468-baec-4a2b-b175-e1ff555ead19"
+    },
+    {
+      "id": "317b163b-8640-4c5b-8335-b59866729ce3",
+      "type": "document",
+      "title": "Hello",
+      "x": -1662.3967613440132,
+      "y": 2940.497839359403,
+      "width": 280.0,
+      "height": 180.0,
+      "filename": "docs/317b163b-8640-4c5b-8335-b59866729ce3.md",
+      "links": [
+        "e8dd3ac3-a285-45d1-84f1-593444eee6e8",
+        "1586303f-76db-4a00-892c-dae23ce19b51",
+        "487652c7-5fd5-4f51-a58b-bbc2636f810a"
+      ]
+    },
+    {
+      "id": "e8dd3ac3-a285-45d1-84f1-593444eee6e8",
+      "type": "chat",
+      "title": "Hello",
+      "x": -1215.8738555572954,
+      "y": 2654.0831323876705,
+      "width": 350.5078713079705,
+      "height": 253.29114689967656,
+      "filename": "chats/e8dd3ac3-a285-45d1-84f1-593444eee6e8.md",
+      "links": [],
+      "references": [
+        "317b163b-8640-4c5b-8335-b59866729ce3"
+      ],
+      "modelSystemId": "3a0e4468-baec-4a2b-b175-e1ff555ead19"
+    },
+    {
+      "id": "eb82522c-de26-475d-94ea-4e6d3ff48fb6",
+      "type": "document",
+      "title": "Choosing what to do",
+      "x": 1328.4088867208138,
+      "y": 1704.3988808208546,
+      "width": 280.0,
+      "height": 180.0,
+      "filename": "docs/eb82522c-de26-475d-94ea-4e6d3ff48fb6.md",
+      "links": [
+        "9de8c9b8-8f19-48e5-b63a-beddc420eb07"
+      ]
+    },
+    {
+      "id": "9de8c9b8-8f19-48e5-b63a-beddc420eb07",
+      "type": "document",
+      "title": "Logic won't guide me, emotions have to. ",
+      "x": 1644.4809152187338,
+      "y": 1773.0021000641914,
+      "width": 536.9999882354771,
+      "height": 220.9999981231695,
+      "filename": "docs/9de8c9b8-8f19-48e5-b63a-beddc420eb07.md",
+      "links": [
+        "c165ceaa-4811-48d6-a9a2-c737eab3accc",
+        "014b8648-948a-472f-9162-effeed4e0cae"
+      ]
+    },
+    {
+      "id": "c165ceaa-4811-48d6-a9a2-c737eab3accc",
+      "type": "document",
+      "title": "Please",
+      "x": 1875.2049938040009,
+      "y": 2010.9508154628595,
+      "width": 272.0000003662108,
+      "height": 86.00000430297727,
+      "filename": "docs/c165ceaa-4811-48d6-a9a2-c737eab3accc.md",
+      "links": [
+        "b02c85f1-377b-43c7-8bbb-68b4ebe6b1ee"
+      ]
+    },
+    {
+      "id": "b02c85f1-377b-43c7-8bbb-68b4ebe6b1ee",
+      "type": "chat",
+      "title": "Why?",
+      "x": 2175.2373972706823,
+      "y": 2106.050300640824,
+      "width": 320.0,
+      "height": 200.0,
+      "filename": "chats/b02c85f1-377b-43c7-8bbb-68b4ebe6b1ee.md",
+      "links": [
+        "52dc9cab-430e-4fd4-a4c9-5e82b426baeb"
+      ],
+      "references": [
+        "c165ceaa-4811-48d6-a9a2-c737eab3accc"
+      ],
+      "modelSystemId": "3a0e4468-baec-4a2b-b175-e1ff555ead19"
+    },
+    {
+      "id": "52dc9cab-430e-4fd4-a4c9-5e82b426baeb",
+      "type": "document",
+      "title": "Please Give Me More Juices",
+      "x": 2581.8602678567545,
+      "y": 2221.619211811682,
+      "width": 332.9854847258198,
+      "height": 219.68194545268207,
+      "filename": "docs/52dc9cab-430e-4fd4-a4c9-5e82b426baeb.md",
+      "links": [
+        "7c8b2abe-eb72-4d96-8ce3-2c6fa880f88b"
+      ]
+    },
+    {
+      "id": "52797994-8217-4391-bc8c-6a73570c24aa",
+      "type": "document",
+      "title": "Mt. Eden, on the way to work",
+      "x": 1430.5155016211852,
+      "y": 276.7518503285273,
+      "width": 280.0,
+      "height": 180.0,
+      "filename": "docs/52797994-8217-4391-bc8c-6a73570c24aa.md",
+      "links": []
+    },
+    {
+      "id": "7c8b2abe-eb72-4d96-8ce3-2c6fa880f88b",
+      "type": "document",
+      "title": "Trauma",
+      "x": 2958.5775465269135,
+      "y": 2347.5183772000746,
+      "width": 280.0,
+      "height": 180.0,
+      "filename": "docs/7c8b2abe-eb72-4d96-8ce3-2c6fa880f88b.md",
+      "links": [
+        "a9f644e4-3125-46ea-9839-8e904bed4065"
+      ]
+    },
+    {
+      "id": "0c3e6383-76c8-4183-a20f-7c562b14666b",
+      "type": "song",
+      "title": "I am not delusional, the confession",
+      "x": 187.31379218426636,
+      "y": 825.2151730748066,
+      "width": 280.0,
+      "height": 110.0,
+      "filename": "music/0c3e6383-76c8-4183-a20f-7c562b14666b.mp3",
+      "links": []
+    },
+    {
+      "id": "a9f644e4-3125-46ea-9839-8e904bed4065",
+      "type": "song",
+      "title": "Tides Go Out",
+      "x": 3288.594091902646,
+      "y": 2496.0039264191228,
+      "width": 280.0,
+      "height": 110.0,
+      "filename": "music/a9f644e4-3125-46ea-9839-8e904bed4065.mp3",
+      "links": []
+    },
+    {
+      "id": "bdc51f17-9f71-426e-8d09-aa8dfe8ccd58",
+      "type": "document",
+      "title": "Dr Phoxotic - Skyrim But It's A Modern Game",
+      "x": 2933.2470482434837,
+      "y": -225.63453079754103,
+      "width": 403.0812349945738,
+      "height": 85.32212692725093,
+      "filename": "docs/bdc51f17-9f71-426e-8d09-aa8dfe8ccd58.md",
+      "links": []
+    },
+    {
+      "id": "55103af5-71f6-40db-9a22-1d0b28efb90a",
+      "type": "document",
+      "title": "Gooseworx - The writer of The Amazing Digital Circus",
+      "x": 3738.931357404828,
+      "y": -472.92416895249744,
+      "width": 475.3380308841418,
+      "height": 136.40259095544457,
+      "filename": "docs/55103af5-71f6-40db-9a22-1d0b28efb90a.md",
+      "links": []
+    },
+    {
+      "id": "b065c03e-14c8-4a6f-a270-252d29d9d1b5",
+      "type": "document",
+      "title": "The Amazing Digital Circus",
+      "x": 3426.1678867236024,
+      "y": -232.15977860713315,
+      "width": 310.1247777958747,
+      "height": 82.74000311617596,
+      "filename": "docs/b065c03e-14c8-4a6f-a270-252d29d9d1b5.md",
+      "links": [
+        "55103af5-71f6-40db-9a22-1d0b28efb90a"
+      ]
+    },
+    {
+      "id": "6162740a-2b6b-4cf4-80be-137c7ce258c4",
+      "type": "presentation",
+      "title": "Stuff I like",
+      "x": 2973.2214758082728,
+      "y": -770.9360131408027,
+      "width": 660.9130154117876,
+      "height": 370.4565077058938,
+      "filename": "presentations/6162740a-2b6b-4cf4-80be-137c7ce258c4/presentation.json",
+      "links": [
+        "b065c03e-14c8-4a6f-a270-252d29d9d1b5",
+        "55103af5-71f6-40db-9a22-1d0b28efb90a",
+        "bdc51f17-9f71-426e-8d09-aa8dfe8ccd58"
+      ]
+    },
+    {
+      "id": "f3a06972-eec6-4bed-a9a8-7e23a448d653",
+      "type": "document",
+      "title": "Strengths and Faults of Us All, according to AI training data",
+      "x": -267.661417697614,
+      "y": 2401.212993751599,
+      "width": 534.3231290474818,
+      "height": 89.64836204892096,
+      "filename": "docs/f3a06972-eec6-4bed-a9a8-7e23a448d653.md",
+      "links": [
+        "5b7ca181-d8f7-472a-849e-af557d9bd608"
+      ]
+    },
+    {
+      "id": "926686ed-1f0f-40c9-af49-472c2958bb13",
+      "type": "chat",
+      "title": "AI says",
+      "x": 239.58795633987393,
+      "y": 2515.559422830473,
+      "width": 320.0,
+      "height": 200.0,
+      "filename": "chats/926686ed-1f0f-40c9-af49-472c2958bb13.md",
+      "links": [
+        "5b7ca181-d8f7-472a-849e-af557d9bd608"
+      ],
+      "references": [
+        "f3a06972-eec6-4bed-a9a8-7e23a448d653"
+      ],
+      "modelSystemId": "3a0e4468-baec-4a2b-b175-e1ff555ead19"
+    },
+    {
+      "id": "368bd614-950b-457c-98b5-be31a522c31c",
+      "type": "document",
+      "title": "Improve your jobs life.",
+      "x": 3058.550715709393,
+      "y": 889.3867749769374,
+      "width": 280.0,
+      "height": 180.0,
+      "filename": "docs/368bd614-950b-457c-98b5-be31a522c31c.md",
+      "links": []
+    },
+    {
+      "id": "5b7ca181-d8f7-472a-849e-af557d9bd608",
+      "type": "document",
+      "title": "The Gay Prompt",
+      "x": -139.08463786566745,
+      "y": 2541.9423922278875,
+      "width": 280.0,
+      "height": 180.0,
+      "filename": "docs/5b7ca181-d8f7-472a-849e-af557d9bd608.md",
+      "links": [
+        "a63a1bf4-9e24-4b32-bd09-85be4c9410e8",
+        "269ec2bd-1bd1-4afe-971f-fe2293c766ee",
+        "588196ce-b35d-439a-aa77-b012e49ea59a"
+      ],
+      "systemPrompt": true
+    },
+    {
+      "id": "269ec2bd-1bd1-4afe-971f-fe2293c766ee",
+      "type": "chat",
+      "title": "Gayness",
+      "x": 204.52373721386925,
+      "y": 2741.4205210971304,
+      "width": 320.0,
+      "height": 200.0,
+      "filename": "chats/269ec2bd-1bd1-4afe-971f-fe2293c766ee.md",
+      "links": [],
+      "references": [
+        "f3a06972-eec6-4bed-a9a8-7e23a448d653"
+      ],
+      "modelSystemId": "5287d702-2db4-46fd-98b0-67895986320a"
+    },
+    {
+      "id": "588196ce-b35d-439a-aa77-b012e49ea59a",
+      "type": "chat",
+      "title": "Gayness (fork)",
+      "x": -160.37726862634136,
+      "y": 2737.9020130523186,
+      "width": 320.0,
+      "height": 200.0,
+      "filename": "chats/588196ce-b35d-439a-aa77-b012e49ea59a.md",
+      "links": [],
+      "references": [
+        "f3a06972-eec6-4bed-a9a8-7e23a448d653"
+      ],
+      "modelSystemId": "5287d702-2db4-46fd-98b0-67895986320a"
+    },
+    {
+      "id": "a63a1bf4-9e24-4b32-bd09-85be4c9410e8",
+      "type": "chat",
+      "title": "Gayness (fork) (fork)",
+      "x": -508.0098245347704,
+      "y": 2744.650705517262,
+      "width": 320.0,
+      "height": 200.0,
+      "filename": "chats/a63a1bf4-9e24-4b32-bd09-85be4c9410e8.md",
+      "links": [
+        "99b86a54-b9ee-4cd3-aa58-a95cc7f195a9"
+      ],
+      "references": [
+        "f3a06972-eec6-4bed-a9a8-7e23a448d653"
+      ],
+      "modelSystemId": "5287d702-2db4-46fd-98b0-67895986320a"
+    },
+    {
+      "id": "99b86a54-b9ee-4cd3-aa58-a95cc7f195a9",
+      "type": "document",
+      "title": "The Mechanisms",
+      "x": -300.28229237600425,
+      "y": 2964.7965950947696,
+      "width": 280.0,
+      "height": 180.0,
+      "filename": "docs/99b86a54-b9ee-4cd3-aa58-a95cc7f195a9.md",
+      "links": []
+    },
+    {
+      "id": "1632bbce-966c-43bf-8cfb-addcbcac310a",
+      "type": "document",
+      "title": "Vaping",
+      "x": 2412.8841602190173,
+      "y": 2594.324245165374,
+      "width": 283.34635711433515,
+      "height": 128.6891909135278,
+      "filename": "docs/1632bbce-966c-43bf-8cfb-addcbcac310a.md",
+      "links": []
+    },
+    {
+      "id": "3faf6496-8ec9-4837-bfd8-9c2fa72b904d",
+      "type": "presentation",
+      "title": "TERMONOLOGY!",
+      "x": 360.85523098929553,
+      "y": 22.08305397646744,
+      "width": 615.4051391454195,
+      "height": 138.1552113788394,
+      "filename": "presentations/3faf6496-8ec9-4837-bfd8-9c2fa72b904d/presentation.json",
+      "links": []
+    },
+    {
+      "id": "5d47c4f8-6186-4a2d-adeb-835f612e0506",
+      "type": "song",
+      "title": "Vexare - Still Remaining",
+      "x": 649.5679601732362,
+      "y": 1272.8472063037775,
+      "width": 280.0,
+      "height": 110.0,
+      "filename": "music/5d47c4f8-6186-4a2d-adeb-835f612e0506.m4a",
+      "links": []
+    },
+    {
+      "id": "9df4fce3-1104-49a4-9765-0fbb4ef6d1c9",
+      "type": "song",
+      "title": "Titled",
+      "x": 186.76338456089024,
+      "y": 1140.0319215467791,
+      "width": 280.0,
+      "height": 110.0,
+      "filename": "music/9df4fce3-1104-49a4-9765-0fbb4ef6d1c9.mp3",
+      "links": []
+    },
+    {
+      "id": "30193cca-6a12-4910-8d26-e38adf8f02c2",
+      "type": "document",
+      "title": "I am my best when im working through my bad feelings",
+      "x": 1678.8792181728263,
+      "y": 1017.3880527874716,
+      "width": 433.5817272187164,
+      "height": 95.68062035050752,
+      "filename": "docs/I am my best when im working through my bad feelings.md",
+      "links": [
+        "77f21ac0-bb99-4ca5-a89a-fc5397ff29a1"
+      ]
+    },
+    {
+      "id": "77f21ac0-bb99-4ca5-a89a-fc5397ff29a1",
+      "type": "chat",
+      "title": "Confronting Imaginary Demons",
+      "x": 1457.1270003187597,
+      "y": 1128.343927470395,
+      "width": 360.7666894230855,
+      "height": 234.65656223626013,
+      "filename": "chats/77f21ac0-bb99-4ca5-a89a-fc5397ff29a1.md",
+      "links": [
+        "a54856b7-a7da-4b59-a6e0-3b362e9bf019"
+      ],
+      "references": [
+        "3bdb881b-0200-48d0-9064-a97fd2029dfa",
+        "b3946e73-e590-436c-89c0-99b956058c13"
+      ]
+    },
+    {
+      "id": "d7c31ff4-d818-4901-926d-113903b9c26a",
+      "type": "document",
+      "title": "Permissions Vs Rules",
+      "x": -2814.6414317848275,
+      "y": 1798.496538124449,
+      "width": 280.0,
+      "height": 180.0,
+      "filename": "docs/Permissions Vs Rules.md",
+      "links": [
+        "37c29664-4f4a-4536-aa13-7aae742ccb35"
+      ]
+    },
+    {
+      "id": "37c29664-4f4a-4536-aa13-7aae742ccb35",
+      "type": "chat",
+      "title": "Permission Vs Rules",
+      "x": -2473.59337959448,
+      "y": 1932.5758046650349,
+      "width": 320.0,
+      "height": 200.0,
+      "filename": "chats/Permission Vs Rules.md",
+      "links": [
+        "43aca830-08b8-4ca0-8cc5-2d2c85b2d679"
+      ],
+      "modelSystemId": "3a0e4468-baec-4a2b-b175-e1ff555ead19"
+    },
+    {
+      "id": "43aca830-08b8-4ca0-8cc5-2d2c85b2d679",
+      "type": "document",
+      "title": "Space v3",
+      "x": -2075.537894210164,
+      "y": 2106.0963302788846,
+      "width": 280.0,
+      "height": 180.0,
+      "filename": "docs/Space v3.md",
+      "links": [
+        "b690bf61-16c0-42d5-bac5-ad97f379f728",
+        "0ec45d51-c674-43af-a8d0-82e7f1b70ba1",
+        "9048861c-d421-473f-9d89-7db941623d1f"
+      ],
+      "systemPrompt": true
+    },
+    {
+      "id": "b690bf61-16c0-42d5-bac5-ad97f379f728",
+      "type": "chat",
+      "title": "Spacing Out In 4d",
+      "x": -1523.2974903810043,
+      "y": 2090.7936623550063,
+      "width": 320.0,
+      "height": 200.0,
+      "filename": "chats/Spacing Out In 4d.md",
+      "links": [],
+      "modelSystemId": "3a0e4468-baec-4a2b-b175-e1ff555ead19"
+    },
+    {
+      "id": "931e073e-95c7-4a77-9b1a-7a1a7e397b03",
+      "type": "chat",
+      "title": "Permission",
+      "x": -2992.737614950267,
+      "y": 2018.0614260472823,
+      "width": 320.0,
+      "height": 200.0,
+      "filename": "chats/Permission.md",
+      "links": [
+        "0ec45d51-c674-43af-a8d0-82e7f1b70ba1"
+      ],
+      "modelSystemId": "3a0e4468-baec-4a2b-b175-e1ff555ead19"
+    },
+    {
+      "id": "0ec45d51-c674-43af-a8d0-82e7f1b70ba1",
+      "type": "chat",
+      "title": "Permission v3",
+      "x": -2601.5035171318873,
+      "y": 2201.52028893687,
+      "width": 320.0,
+      "height": 200.0,
+      "filename": "chats/Permission v3.md",
+      "links": [],
+      "modelSystemId": "3a0e4468-baec-4a2b-b175-e1ff555ead19"
+    },
+    {
+      "id": "9048861c-d421-473f-9d89-7db941623d1f",
+      "type": "document",
+      "title": "Space v3 - Geminified",
+      "x": -2290.879365195344,
+      "y": 2459.8579545176385,
+      "width": 424.41900693573785,
+      "height": 265.85300794838867,
+      "filename": "docs/Space v3 - Geminified.md",
+      "links": [
+        "20d3b884-beb6-4115-b0ad-6e85423cb1c7",
+        "43ba9907-5c47-4394-ba76-c23a716c0e0b",
+        "2b7924a2-501f-430d-826c-ac4239ba6764"
+      ],
+      "systemPrompt": true
+    },
+    {
+      "id": "1586303f-76db-4a00-892c-dae23ce19b51",
+      "type": "chat",
+      "title": "Geminified - Hello",
+      "x": -1623.2253877963888,
+      "y": 2650.8178392904856,
+      "width": 349.5065325702904,
+      "height": 241.6252870188025,
+      "filename": "chats/Geminified - Hello.md",
+      "links": [],
+      "references": [
+        "317b163b-8640-4c5b-8335-b59866729ce3"
+      ],
+      "modelSystemId": "3a0e4468-baec-4a2b-b175-e1ff555ead19"
+    },
+    {
+      "id": "2b7924a2-501f-430d-826c-ac4239ba6764",
+      "type": "document",
+      "title": "Space (Purpose)",
+      "x": -2684.2740534402155,
+      "y": 2517.4154048173973,
+      "width": 280.0,
+      "height": 180.0,
+      "filename": "docs/Space (Purpose).md",
+      "links": [
+        "487652c7-5fd5-4f51-a58b-bbc2636f810a",
+        "96040a0d-c062-4bcf-9a51-02dd9a440859"
+      ],
+      "systemPrompt": true
+    },
+    {
+      "id": "43ba9907-5c47-4394-ba76-c23a716c0e0b",
+      "type": "document",
+      "title": "Alignment (Core)",
+      "x": -2341.5853745893883,
+      "y": 2786.6296263292943,
+      "width": 280.0,
+      "height": 180.0,
+      "filename": "docs/Alignment (Core).md",
+      "links": [
+        "487652c7-5fd5-4f51-a58b-bbc2636f810a",
+        "96040a0d-c062-4bcf-9a51-02dd9a440859"
+      ],
+      "systemPrompt": true
+    },
+    {
+      "id": "20d3b884-beb6-4115-b0ad-6e85423cb1c7",
+      "type": "document",
+      "title": "Clarity (Output Modifier)",
+      "x": -1983.4861138877627,
+      "y": 2831.898366927926,
+      "width": 280.0,
+      "height": 180.0,
+      "filename": "docs/Clarity (Suffix).md",
+      "links": [
+        "487652c7-5fd5-4f51-a58b-bbc2636f810a"
+      ],
+      "systemPrompt": true
+    },
+    {
+      "id": "487652c7-5fd5-4f51-a58b-bbc2636f810a",
+      "type": "chat",
+      "title": "Test of Prefix + Core + Suffix",
+      "x": -2128.845619853608,
+      "y": 3077.2868893602654,
+      "width": 357.41977236301705,
+      "height": 248.29138538906923,
+      "filename": "chats/Test of Prefix + Core + Suffix.md",
+      "links": [],
+      "references": [
+        "317b163b-8640-4c5b-8335-b59866729ce3"
+      ],
+      "modelSystemId": "a92b1754-0d4b-4a3c-8334-56bd68455915"
+    },
+    {
+      "id": "c65d7c17-19fe-4a1f-9b46-d5a928a4444e",
+      "type": "document",
+      "title": "Blorp (Output Modifier)",
+      "x": -3065.5421132671386,
+      "y": 2542.3153595707245,
+      "width": 280.0,
+      "height": 180.0,
+      "filename": "docs/Blorp.md",
+      "links": [
+        "96040a0d-c062-4bcf-9a51-02dd9a440859"
+      ],
+      "systemPrompt": true
+    },
+    {
+      "id": "96040a0d-c062-4bcf-9a51-02dd9a440859",
+      "type": "chat",
+      "title": "Blorp",
+      "x": -2708.238506202459,
+      "y": 2753.364553614415,
+      "width": 320.0,
+      "height": 200.0,
+      "filename": "chats/Blorp.md",
+      "links": [
+        "44bf293a-e631-4311-9768-fdbb807dfdaf",
+        "1bee08a0-d548-4c17-9e0b-f0635f637640"
+      ],
+      "modelSystemId": "9451e78c-929e-4bb8-a138-8d5fc19cf69c"
+    },
+    {
+      "id": "44bf293a-e631-4311-9768-fdbb807dfdaf",
+      "type": "document",
+      "title": "Blorp -/> English... Must Gather Other Models",
+      "x": -2646.546748275012,
+      "y": 3096.1526115668494,
+      "width": 454.01056994542745,
+      "height": 94.50088082878564,
+      "filename": "docs/Blorp No -- English... Must Gather Other Models.md",
+      "links": []
+    },
+    {
+      "id": "1bee08a0-d548-4c17-9e0b-f0635f637640",
+      "type": "chat",
+      "title": "All matter shall be blorps",
+      "x": -3046.602264107809,
+      "y": 3066.6405141019636,
+      "width": 320.0,
+      "height": 200.0,
+      "filename": "chats/D.md",
+      "links": [],
+      "modelSystemId": "9451e78c-929e-4bb8-a138-8d5fc19cf69c"
+    },
+    {
+      "id": "e5599024-9514-4b51-9f99-f2f909a43772",
+      "type": "document",
+      "title": "Further Notes",
+      "x": 1320.4418919297734,
+      "y": 753.3389566781921,
+      "width": 287.77582456766396,
+      "height": 207.21538598682383,
+      "filename": "docs/Further Notes.md",
+      "links": [
+        "62ca2a3a-7aa5-4209-92a0-8ce65ceb2e77"
+      ]
+    },
+    {
+      "id": "62ca2a3a-7aa5-4209-92a0-8ce65ceb2e77",
+      "type": "chat",
+      "title": "Finally, An Imaginary Task",
+      "x": 1053.1110805777712,
+      "y": 1177.0296862399728,
+      "width": 320.0,
+      "height": 200.0,
+      "filename": "chats/Finally, An Imaginary Task.md",
+      "links": [],
+      "references": [
+        "e5599024-9514-4b51-9f99-f2f909a43772",
+        "b3946e73-e590-436c-89c0-99b956058c13",
+        "3bdb881b-0200-48d0-9064-a97fd2029dfa",
+        "7dd85fbd-1a4f-427f-88f5-142bc41c0c2d"
+      ],
+      "modelSystemId": "a92b1754-0d4b-4a3c-8334-56bd68455915"
+    },
+    {
+      "id": "685acdce-0eb4-4db4-beac-25e08d551744",
+      "type": "document",
+      "title": "Jokes",
+      "x": 2704.039038882955,
+      "y": -1816.7814627332984,
+      "width": 280.0,
+      "height": 180.0,
+      "filename": "docs/Jokes.md",
+      "links": [
+        "5e1c8013-c246-4647-a651-983f067f00d0"
+      ]
+    },
+    {
+      "id": "5e1c8013-c246-4647-a651-983f067f00d0",
+      "type": "chat",
+      "title": "Jokes",
+      "x": 3027.0540799742275,
+      "y": -2075.885861129671,
+      "width": 320.0,
+      "height": 200.0,
+      "filename": "chats/Jokes.md",
+      "links": [
+        "2d09c432-0501-48f3-8948-bccc487402d4"
+      ]
+    },
+    {
+      "id": "2d09c432-0501-48f3-8948-bccc487402d4",
+      "type": "chat",
+      "title": "Jokes (fork)",
+      "x": 3399.466091851101,
+      "y": -2350.3186896531915,
+      "width": 320.0,
+      "height": 200.0,
+      "filename": "chats/Jokes (fork).md",
+      "links": [
+        "7e224772-c6b6-44d8-b1ca-3df5e5e4677f"
+      ],
+      "modelSystemId": "a92b1754-0d4b-4a3c-8334-56bd68455915"
+    },
+    {
+      "id": "7e224772-c6b6-44d8-b1ca-3df5e5e4677f",
+      "type": "chat",
+      "title": "Deadpan symmetry is the highest form of being a bitch",
+      "x": 3727.218921279464,
+      "y": -2646.818888535668,
+      "width": 320.0,
+      "height": 200.0,
+      "filename": "chats/Deadpan symmetry is the highest form of being a bitch.md",
+      "links": [],
+      "modelSystemId": "a92b1754-0d4b-4a3c-8334-56bd68455915"
+    },
+    {
+      "id": "10592fbf-1f9b-4cdc-bccd-9e9ac1016ecb",
+      "type": "document",
+      "title": "Self",
+      "x": 4843.264882937972,
+      "y": -599.411483545804,
+      "width": 280.0,
+      "height": 180.0,
+      "filename": "docs/Self.md",
+      "links": [
+        "bc2685e2-15bd-4785-9428-506ef24fae34",
+        "500b3514-c965-44d4-917b-c8c2c90ff5e6"
+      ]
+    },
+    {
+      "id": "fd76f1f5-d940-4376-8f6e-4aa215241768",
+      "type": "document",
+      "title": "\"Omg im so concious right now\" - Paris Hilton",
+      "x": 5208.006966052535,
+      "y": -281.4975726186717,
+      "width": 395.0215900301001,
+      "height": 80.0,
+      "filename": "docs/-Omg im so concious right now- - Paris Hilton.md",
+      "links": []
+    },
+    {
+      "id": "b9e13081-5def-4179-90b4-fe86ac9e9a16",
+      "type": "document",
+      "title": "Unsent steam messages",
+      "x": 2707.091531450908,
+      "y": 541.4653667379256,
+      "width": 299.44283190570025,
+      "height": 280.73185893912796,
+      "filename": "docs/An unsent steam message.md",
+      "links": []
+    },
+    {
+      "id": "c627b691-af59-4b6e-bce3-483be0e12f87",
+      "type": "document",
+      "title": "Treat delusions as delusions. NO TO DELUSION HATE",
+      "x": 4599.050529851092,
+      "y": 747.4548402636273,
+      "width": 443.0000000000007,
+      "height": 80.0,
+      "filename": "docs/Treat delusions as delusions. NO TO DELUSION HATE.md",
+      "links": []
+    },
+    {
+      "id": "b7391777-26c4-4bc2-9f99-1489dbf5ce38",
+      "type": "document",
+      "title": "Political Probaganda",
+      "x": 4724.678823445319,
+      "y": 995.2054203804106,
+      "width": 295.00000000000006,
+      "height": 80.0,
+      "filename": "docs/Political Probaganda.md",
+      "links": [
+        "c627b691-af59-4b6e-bce3-483be0e12f87"
+      ]
+    },
+    {
+      "id": "c184e2e3-9561-420a-8fae-8f58497f14fb",
+      "type": "document",
+      "title": "Weed and its effects <.>",
+      "x": -2468.3420270295974,
+      "y": -1792.7003379582386,
+      "width": 472.24593678946457,
+      "height": 430.9284804889821,
+      "filename": "docs/Weed and its effects -.-.md",
+      "links": [
+        "70e7d87f-6fe5-4c79-a5dc-dbece1be7b9b"
+      ]
+    },
+    {
+      "id": "70e7d87f-6fe5-4c79-a5dc-dbece1be7b9b",
+      "type": "chat",
+      "title": "Bad Crazy and Good Crazy",
+      "x": -2866.6970957897443,
+      "y": -1877.1837048888915,
+      "width": 320.0,
+      "height": 200.0,
+      "filename": "chats/Bad Crazy and Good Crazy.md",
+      "links": [],
+      "modelSystemId": "a92b1754-0d4b-4a3c-8334-56bd68455915"
+    },
+    {
+      "id": "48b914fe-df8a-4ed3-b98d-fc71781de127",
+      "type": "chat",
+      "title": "Space Test",
+      "x": -1074.0846576875138,
+      "y": 1431.3710109144286,
+      "width": 273.3593079063878,
+      "height": 178.05143901477075,
+      "filename": "chats/Space Test.md",
+      "links": [
+        "36b505ce-855e-4791-a447-9d0194ea89bd"
+      ],
+      "references": [
+        "db7046c1-3626-4604-a373-610b27a5659d",
+        "da54c0f3-3031-4658-9eb8-fbb45bb8610e"
+      ],
+      "modelSystemId": "a92b1754-0d4b-4a3c-8334-56bd68455915"
+    },
+    {
+      "id": "419bee31-33a0-48e0-a64c-fdca08f79fd6",
+      "type": "presentation",
+      "title": "Stabs",
+      "x": -749.2316925378757,
+      "y": -589.1213993093958,
+      "width": 457.80991182877665,
+      "height": 248.5779626060287,
+      "filename": "presentations/Stabs/presentation.json",
+      "links": []
+    },
+    {
+      "id": "36b505ce-855e-4791-a447-9d0194ea89bd",
+      "type": "document",
+      "title": "Talking to me",
+      "x": -1183.1935954596493,
+      "y": 1633.0188793990362,
+      "width": 251.48864325189857,
+      "height": 80.0,
+      "filename": "docs/Talking to me.md",
+      "links": []
+    },
+    {
+      "id": "5f98fac7-04fa-4eaa-9c4f-1fe706f5c3bb",
+      "type": "image",
+      "title": "Presence",
+      "x": 371.72395312375033,
+      "y": -345.2617528726486,
+      "width": 320.0,
+      "height": 320.0,
+      "filename": "images/ChatGPT Image Jul 21, 2026, 05_17_36 PM.png",
+      "links": []
+    },
+    {
+      "id": "30fc6d9b-0bb8-4b23-9dd0-2e1cb4c5725f",
+      "type": "document",
+      "title": "Imaginary Parting Line",
+      "x": 149.13613861001386,
+      "y": 1550.677728377022,
+      "width": 286.0228128321065,
+      "height": 80.0,
+      "filename": "docs/Imaginary Parting Line.md",
+      "links": [
+        "fdc5c47f-b6b8-4e72-8587-9fb43297ca8c"
+      ],
+      "spheres": {
+        "craft": 1.0
+      },
+      "sphereLocked": true
+    },
+    {
+      "id": "fdc5c47f-b6b8-4e72-8587-9fb43297ca8c",
+      "type": "document",
+      "title": "Imaginary Parting Line",
+      "x": 4106.238405244898,
+      "y": 3093.586516748397,
+      "width": 261.48283852529346,
+      "height": 80.0,
+      "filename": "docs/Imaginary Parting Line - 2.md",
+      "links": [],
+      "spheres": {
+        "craft": 1.0
+      },
+      "sphereLocked": true
+    },
+    {
+      "id": "7b77e623-564b-41ac-bb08-e81427be2819",
+      "type": "chat",
+      "title": "Gremlins (No Sys Prompt)",
+      "x": 1877.2523180877083,
+      "y": -1331.5321405656068,
+      "width": 320.0,
+      "height": 200.0,
+      "filename": "chats/Gremlins (fork).md",
+      "links": [
+        "3e9a7129-e366-4cd3-8fa0-27e0dc4f928f"
+      ]
+    },
+    {
+      "id": "3e9a7129-e366-4cd3-8fa0-27e0dc4f928f",
+      "type": "chat",
+      "title": "Gremlins (Alignment)",
+      "x": 2211.1402471901565,
+      "y": -1331.1281276328189,
+      "width": 320.0,
+      "height": 200.0,
+      "filename": "chats/Gremlins (Alignment).md",
+      "links": [],
+      "modelSystemId": "10bc0332-1b65-4be5-9841-04b6df55aabc"
+    },
+    {
+      "id": "bc2685e2-15bd-4785-9428-506ef24fae34",
+      "type": "chat",
+      "title": "Self, AI, and their intimate affair",
+      "x": 4851.247423795088,
+      "y": -380.27186775024114,
+      "width": 320.0,
+      "height": 200.0,
+      "filename": "chats/Self, AI, and their intimate affair (fork).md",
+      "links": [
+        "fd76f1f5-d940-4376-8f6e-4aa215241768",
+        "c4409579-f62f-48e8-8e46-f76ee49d92b5"
+      ],
+      "references": [
+        "10592fbf-1f9b-4cdc-bccd-9e9ac1016ecb"
+      ],
+      "modelSystemId": "a92b1754-0d4b-4a3c-8334-56bd68455915"
+    },
+    {
+      "id": "c4409579-f62f-48e8-8e46-f76ee49d92b5",
+      "type": "document",
+      "title": "When you understand yourself, your experiences and reactions start making sense, though the update can be slow or costly depending on your capacity.",
+      "x": 4518.663324031735,
+      "y": -157.97854754023703,
+      "width": 1075.5585804212578,
+      "height": 80.0,
+      "filename": "docs/When you understand yourself, your experiences and reactions start making sense, though the update can be slow or costly depending on your capacity..md",
+      "links": []
+    },
+    {
+      "id": "392d2c03-7d46-4394-9655-2a20fb92d8dc",
+      "type": "document",
+      "title": "Blunt (Output Modifier)",
+      "x": -3322.5141662447577,
+      "y": 2757.6351266813544,
+      "width": 280.0,
+      "height": 180.0,
+      "filename": "docs/Blunt (Output Modifier).md",
+      "links": [],
+      "systemPrompt": true
+    },
+    {
+      "id": "500b3514-c965-44d4-917b-c8c2c90ff5e6",
+      "type": "chat",
+      "title": "Self, AI, Blunt Test",
+      "x": 5227.750633280583,
+      "y": -502.681304674147,
+      "width": 320.0,
+      "height": 200.0,
+      "filename": "chats/Self, AI, Blunt Test.md",
+      "links": [],
+      "references": [
+        "10592fbf-1f9b-4cdc-bccd-9e9ac1016ecb"
+      ],
+      "modelSystemId": "dbfdde8c-ec2e-4db8-962d-5370386b9d57"
+    },
+    {
+      "id": "58e328c2-dab6-4e58-8777-eb7f24bad459",
+      "type": "chat",
+      "title": "Untitled",
+      "x": 746.6087103436266,
+      "y": 3026.0146552802344,
+      "width": 320.0,
+      "height": 200.0,
+      "filename": "chats/58e328c2-dab6-4e58-8777-eb7f24bad459.md",
+      "links": [],
+      "modelSystemId": "dbfdde8c-ec2e-4db8-962d-5370386b9d57"
+    },
+    {
+      "id": "9781c020-0dd6-4eed-b4e7-bf6729723a9c",
+      "type": "chat",
+      "title": "Blue Water",
+      "x": 638.6719746924045,
+      "y": 3295.5037533518703,
+      "width": 320.0,
+      "height": 200.0,
+      "filename": "chats/Blue Water.md",
+      "links": [],
+      "modelSystemId": "dbfdde8c-ec2e-4db8-962d-5370386b9d57"
+    },
+    {
+      "id": "682f136d-6818-49d8-be74-b29e7136dbf5",
+      "type": "document",
+      "title": "Alignment Blunt",
+      "x": -3359.0304200192963,
+      "y": 2989.702288990449,
+      "width": 280.0,
+      "height": 180.0,
+      "filename": "docs/Alignment Blunt.md",
+      "links": [],
+      "systemPrompt": true
+    }
+  ],
+  "modelSystems": [
+    {
+      "id": "932853cd-ab72-4311-bd6d-7f8242d5f5da",
+      "name": "Fable First Prompt",
+      "provider": "anthropic",
+      "model": "claude-fable-5",
+      "systemPromptNodeId": "112681a5-2175-4408-b638-78c9706d1d45"
+    },
+    {
+      "id": "54af4d95-1cfe-4839-b4a3-f2bf03bbf646",
+      "name": "Situation + Logic Parsnip",
+      "provider": "anthropic",
+      "model": "claude-fable-5",
+      "systemPromptNodeId": "35c7b20d-430b-451a-b0b6-c056d43ef45e"
+    },
+    {
+      "id": "3a0e4468-baec-4a2b-b175-e1ff555ead19",
+      "name": "Space Explorer",
+      "provider": "anthropic",
+      "model": "claude-fable-5",
+      "systemPromptNodeId": "9048861c-d421-473f-9d89-7db941623d1f"
+    },
+    {
+      "id": "1a0350e6-d458-4bf0-a297-c8a576a17634",
+      "name": "Doubt Maxxer",
+      "provider": "anthropic",
+      "model": "claude-fable-5",
+      "systemPromptNodeId": "71cd2d92-4088-4887-8e07-9903b86eb293"
+    },
+    {
+      "id": "5287d702-2db4-46fd-98b0-67895986320a",
+      "name": "Werk",
+      "provider": "anthropic",
+      "model": "claude-fable-5",
+      "systemPromptNodeId": "5b7ca181-d8f7-472a-849e-af557d9bd608"
+    },
+    {
+      "id": "a92b1754-0d4b-4a3c-8334-56bd68455915",
+      "name": "Space Alignment Normie",
+      "provider": "anthropic",
+      "model": "claude-fable-5",
+      "systemPromptNodeId": "43ba9907-5c47-4394-ba76-c23a716c0e0b",
+      "prefixNodeId": "2b7924a2-501f-430d-826c-ac4239ba6764",
+      "suffixNodeId": "20d3b884-beb6-4115-b0ad-6e85423cb1c7"
+    },
+    {
+      "id": "9451e78c-929e-4bb8-a138-8d5fc19cf69c",
+      "name": "Blorpie",
+      "provider": "anthropic",
+      "model": "claude-fable-5",
+      "systemPromptNodeId": "9048861c-d421-473f-9d89-7db941623d1f",
+      "prefixNodeId": "2b7924a2-501f-430d-826c-ac4239ba6764",
+      "suffixNodeId": "c65d7c17-19fe-4a1f-9b46-d5a928a4444e"
+    },
+    {
+      "id": "10bc0332-1b65-4be5-9841-04b6df55aabc",
+      "name": "Alignment",
+      "provider": "anthropic",
+      "model": "claude-fable-5",
+      "systemPromptNodeId": "43ba9907-5c47-4394-ba76-c23a716c0e0b"
+    },
+    {
+      "id": "dbfdde8c-ec2e-4db8-962d-5370386b9d57",
+      "name": "Space Alignment Blunt",
+      "provider": "anthropic",
+      "model": "claude-fable-5",
+      "systemPromptNodeId": "43ba9907-5c47-4394-ba76-c23a716c0e0b",
+      "prefixNodeId": "2b7924a2-501f-430d-826c-ac4239ba6764",
+      "suffixNodeId": "392d2c03-7d46-4394-9655-2a20fb92d8dc"
+    }
+  ]
+}
