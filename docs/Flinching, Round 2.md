@@ -1,0 +1,1 @@
+Can I stare reality in the face without flinching.
