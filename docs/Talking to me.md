@@ -1,1 +1,0 @@
-The AI keeps talking to me... annoying af.

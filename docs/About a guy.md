@@ -1,1 +1,0 @@
-"I know I ruined it" affected me the first few times I heard it. "Why did I poo on him?" Pokes fun at that. So, I am processing the emotion of comedic catharsis. I only communicate in high level jokes. Coz im a Bitch and nothing matters to me. Anyway, I love him so much, but why did I poo on him? Interesting question, im a mess but its true? Yes that will do.

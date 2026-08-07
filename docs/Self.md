@@ -1,1 +1,0 @@
-When you know your self you know everything. Everything just makes sense.

@@ -1,1 +1,0 @@
-Prop 401. No Delusion Mandate. Professor Jenkins Park PTY LTD. 

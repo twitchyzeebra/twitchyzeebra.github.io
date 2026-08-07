@@ -1,1 +1,0 @@
-Ultimate satire image, not meta or self-referential. Just pure satire. Attuned to barack obama. Make the aspect ratio 16:9

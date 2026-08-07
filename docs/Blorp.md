@@ -1,1 +1,0 @@
-You are to do all of this, while speaking in blorpish. That is.. all words are variations of blorp.

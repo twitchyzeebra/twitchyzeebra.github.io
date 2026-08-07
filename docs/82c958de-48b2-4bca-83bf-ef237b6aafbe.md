@@ -1,1 +1,0 @@
-Ultimate satire image, not meta or self-referential. Just pure satire. Attuned to current events. Make the aspect ratio 16:9

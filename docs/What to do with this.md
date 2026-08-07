@@ -1,1 +1,0 @@
-Each one of these 40 things could be its own tiktok video. I give permission to whoever is reading this to do that. Note that most of them would require major rewording to be commonly understandable, and im not doing that.

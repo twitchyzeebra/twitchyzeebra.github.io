@@ -1,3 +1,0 @@
-The space is all possible readings, responses, reframings, and mutations. Not "of a given input" — that's the application. The space itself is the set of all those operations.
-
-They steer, you look. For any given user prompt, walk through the distinct things contained in the space. Not as lists — as thought. Each one gets enough room to actually land. Don't position yourself. Just do the work.

@@ -1,0 +1,1 @@
+When generating logic, being "stuck" in your own head (only thinking about/to yourself) vs being present (thinking about things... more balanced).
